@@ -1,0 +1,1318 @@
+[I 2021-12-02 05:21:55.112 ServerApp] jupyterlab | extension was successfully linked.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'certfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'keyfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'keyfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-12-02 05:21:55.120 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-12-02 05:21:56.673 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-12-02 05:21:56.817 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-12-02 05:21:56.818 LabApp] JupyterLab extension loaded from /home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyterlab
+[I 2021-12-02 05:21:56.818 LabApp] JupyterLab application directory is /home/sw1013/anaconda3/envs/downscale/share/jupyter/lab
+[I 2021-12-02 05:21:56.825 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-12-02 05:21:56.827 ServerApp] Serving notebooks from local directory: /net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples
+[I 2021-12-02 05:21:56.827 ServerApp] Jupyter Server 1.11.1 is running at:
+[I 2021-12-02 05:21:56.827 ServerApp] https://wrfproc1-10.sp.ph.ic.ac.uk:10001/lab?token=6b9f8ee4ba8610a21e0c872f2f343dfc64ce425d764e969c
+[I 2021-12-02 05:21:56.827 ServerApp]  or https://127.0.0.1:10001/lab?token=6b9f8ee4ba8610a21e0c872f2f343dfc64ce425d764e969c
+[I 2021-12-02 05:21:56.827 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-12-02 05:22:10.464 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/sw1013/.local/share/jupyter/runtime/jpserver-216578-open.html
+    Or copy and paste one of these URLs:
+        https://wrfproc1-10.sp.ph.ic.ac.uk:10001/lab?token=6b9f8ee4ba8610a21e0c872f2f343dfc64ce425d764e969c
+     or https://127.0.0.1:10001/lab?token=6b9f8ee4ba8610a21e0c872f2f343dfc64ce425d764e969c
+[W 2021-12-02 05:22:25.831 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-12-02 05:22:29.812 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-02 05:22:34.821 ServerApp] Kernel started: 59e85ed4-8066-4618-bcaf-d835ec1e30a7
+[I 2021-12-02 05:22:39.425 ServerApp] Starting buffering for 59e85ed4-8066-4618-bcaf-d835ec1e30a7:cffcd015-15c1-4d41-8759-dc91d975004b
+xdg-open: no method available for opening 'file:///home/sw1013/.local/share/jupyter/runtime/jpserver-216578-open.html'
+[W 2021-12-02 15:54:09.680 ServerApp] WebSocket ping timeout after 119769 ms.
+[W 2021-12-02 15:54:10.314 ServerApp] WebSocket ping timeout after 120272 ms.
+[I 2021-12-02 15:54:16.579 ServerApp] Starting buffering for 59e85ed4-8066-4618-bcaf-d835ec1e30a7:90780976-ff30-4b92-87a3-e48dcbd3a4d1
+[W 2021-12-02 15:58:43.615 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-12-02 15:58:45.877 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[W 2021-12-03 22:44:53.939 ServerApp] WebSocket ping timeout after 119888 ms.
+[I 2021-12-03 22:44:58.943 ServerApp] Starting buffering for 59e85ed4-8066-4618-bcaf-d835ec1e30a7:fce97760-41f6-4dcf-b694-1d4b4d54ddff
+[W 2021-12-04 03:40:16.458 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-12-04 03:40:17.564 ServerApp] 404 GET /api/contents/net/wrfstore7-10/disk1/sw1013/Papers_undergoing/SLOW_MPI_TREND/Main_MPI_TREND.ipynb?content=0&1638589217412 (129.31.252.54): No such file or directory: net/wrfstore7-10/disk1/sw1013/Papers_undergoing/SLOW_MPI_TREND/Main_MPI_TREND.ipynb
+[W 2021-12-04 03:40:17.565 ServerApp] No such file or directory: net/wrfstore7-10/disk1/sw1013/Papers_undergoing/SLOW_MPI_TREND/Main_MPI_TREND.ipynb
+[W 2021-12-04 03:40:17.566 ServerApp] 404 GET /api/contents/net/wrfstore7-10/disk1/sw1013/Papers_undergoing/SLOW_MPI_TREND/Main_MPI_TREND.ipynb?content=0&1638589217412 (129.31.252.54) 14.78ms referer=https://wrfproc1-10.sp.ph.ic.ac.uk:10001/lab/tree/20211118_wind_regional.ipynb
+[W 2021-12-04 03:40:18.170 ServerApp] 404 GET /api/contents/net/wrfstore7-10/disk1/sw1013/Papers_undergoing/MORE_MAJOR/Main.ipynb?content=0&1638589217413 (129.31.252.54): No such file or directory: net/wrfstore7-10/disk1/sw1013/Papers_undergoing/MORE_MAJOR/Main.ipynb
+[W 2021-12-04 03:40:18.171 ServerApp] No such file or directory: net/wrfstore7-10/disk1/sw1013/Papers_undergoing/MORE_MAJOR/Main.ipynb
+[W 2021-12-04 03:40:18.171 ServerApp] 404 GET /api/contents/net/wrfstore7-10/disk1/sw1013/Papers_undergoing/MORE_MAJOR/Main.ipynb?content=0&1638589217413 (129.31.252.54) 2.76ms referer=https://wrfproc1-10.sp.ph.ic.ac.uk:10001/lab/tree/20211118_wind_regional.ipynb
+[W 2021-12-04 03:40:21.527 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-04 03:40:23.722 ServerApp] Starting buffering for 59e85ed4-8066-4618-bcaf-d835ec1e30a7:b63735b8-66a4-49ec-b34f-44063079932f
+[W 2021-12-04 14:01:49.373 ServerApp] SSL Error on 11 ('146.179.52.3', 10748): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-04 14:02:22.902 ServerApp] 302 GET / (146.179.52.3) 16.25ms
+[W 2021-12-04 14:03:22.046 ServerApp] SSL Error on 11 ('146.179.52.3', 14754): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-04 14:03:26.051 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[W 2021-12-04 14:03:26.070 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-04 14:03:26.443 ServerApp] 403 POST /sdk (146.179.52.3) 373.04ms referer=None
+[I 2021-12-04 14:03:26.983 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[W 2021-12-04 14:03:27.003 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-04 14:03:27.004 ServerApp] 403 POST /sdk (146.179.52.3) 1.87ms referer=None
+[I 2021-12-04 14:03:34.161 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[I 2021-12-04 14:03:34.218 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2021-12-04 14:03:34.249 ServerApp] 404 GET /properties/description.dhtml (146.179.52.3) 10.12ms referer=None
+[W 2021-12-04 14:03:34.269 ServerApp] 404 GET /properties/configuration.php?tab=Status (146.179.52.3) 1.17ms referer=None
+[W 2021-12-04 14:03:34.288 ServerApp] 404 GET /header.php?tab=status (146.179.52.3) 1.16ms referer=None
+[I 2021-12-04 14:03:34.421 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2021-12-04 14:03:34.441 ServerApp] 302 GET / (146.179.52.3) 0.50ms
+[I 2021-12-04 14:03:34.520 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-04 14:03:34.551 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[I 2021-12-04 14:03:34.570 ServerApp] 302 GET / (146.179.52.3) 0.52ms
+[I 2021-12-04 14:03:34.660 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-04 14:03:34.679 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[W 2021-12-04 14:03:34.698 ServerApp] 404 GET /login.php (146.179.52.3) 1.36ms referer=None
+[W 2021-12-04 14:03:34.717 ServerApp] 404 GET /this_server/all_settings.shtml (146.179.52.3) 1.33ms referer=None
+[I 2021-12-04 14:03:34.738 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-04 14:03:34.757 LabApp] 302 GET /lab (146.179.52.3) 0.67ms
+[W 2021-12-04 14:03:34.786 ServerApp] 404 GET /authenticate/login (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:34.851 ServerApp] 404 GET /start.js (146.179.52.3) 1.25ms referer=None
+[I 2021-12-04 14:03:34.876 ServerApp] 302 GET /tmui/ (146.179.52.3) 0.54ms
+[W 2021-12-04 14:03:34.941 ServerApp] 404 GET /netmri/config/userAdmin/login.tdf (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:34.961 ServerApp] 404 GET /scgi-bin/platform.cgi (146.179.52.3) 1.17ms referer=None
+[W 2021-12-04 14:03:34.989 ServerApp] 404 GET /admin/login.do (146.179.52.3) 1.14ms referer=None
+[W 2021-12-04 14:03:35.021 ServerApp] 404 GET /en/main.js (146.179.52.3) 1.15ms referer=None
+[W 2021-12-04 14:03:35.060 ServerApp] 404 GET /mgmt/login?dest=%2Fmgmt%2Fgui%3Fp%3Dhome&reason=&username= (146.179.52.3) 19.43ms referer=None
+[W 2021-12-04 14:03:35.084 ServerApp] 404 GET /dms2/Login.jsp (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:35.133 ServerApp] 404 GET /home.htm (146.179.52.3) 1.19ms referer=None
+[W 2021-12-04 14:03:35.152 ServerApp] 404 GET /sws/data/sws_data.js (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:35.173 ServerApp] 404 GET /wcd/system.xml (146.179.52.3) 1.14ms referer=None
+[W 2021-12-04 14:03:35.193 ServerApp] 404 GET /js/Device.js (146.179.52.3) 1.17ms referer=None
+[W 2021-12-04 14:03:35.212 ServerApp] 404 GET /ptz.htm (146.179.52.3) 1.16ms referer=None
+[W 2021-12-04 14:03:35.239 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.15ms referer=None
+[W 2021-12-04 14:03:35.260 ServerApp] 404 GET /loginMsg.js (146.179.52.3) 1.16ms referer=None
+[I 2021-12-04 14:03:35.929 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-04 14:03:35.951 ServerApp] 404 GET /login.html (146.179.52.3) 1.18ms referer=None
+[I 2021-12-04 14:03:36.032 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-04 14:03:36.053 ServerApp] 404 GET /Home.do (146.179.52.3) 1.20ms referer=None
+[I 2021-12-04 14:03:36.127 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-04 14:03:36.146 ServerApp] 404 GET http://rfi.nessus.org/check_proxy.html (146.179.52.3) 1.19ms referer=None
+[I 2021-12-04 14:03:36.187 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2021-12-04 14:03:36.207 ServerApp] 302 GET // (146.179.52.3) 0.48ms
+[W 2021-12-04 14:03:36.266 ServerApp] 404 GET /intruvert/jsp/admin/Login.jsp (146.179.52.3) 1.26ms referer=None
+[W 2021-12-04 14:03:36.311 ServerApp] 404 GET /commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm (146.179.52.3) 1.21ms referer=None
+[I 2021-12-04 14:03:36.353 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-04 14:03:36.390 ServerApp] 404 GET /xmldata?item=All (146.179.52.3) 1.21ms referer=None
+[W 2021-12-04 14:03:36.411 ServerApp] 404 GET /upnp/BasicDevice.xml (146.179.52.3) 1.14ms referer=None
+[I 2021-12-04 14:03:36.442 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-04 14:03:36.520 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-04 14:03:36.543 ServerApp] 404 GET /robots.txt (146.179.52.3) 2.52ms referer=None
+[W 2021-12-04 14:03:36.572 ServerApp] 404 GET /sitemap.xml (146.179.52.3) 1.13ms referer=None
+[W 2021-12-04 14:03:36.599 ServerApp] 404 GET /.cobalt (146.179.52.3) 1.14ms referer=None
+[W 2021-12-04 14:03:36.630 ServerApp] 404 GET /admin.back (146.179.52.3) 1.12ms referer=None
+[W 2021-12-04 14:03:36.651 ServerApp] 404 GET /file (146.179.52.3) 1.19ms referer=None
+[W 2021-12-04 14:03:36.670 ServerApp] 404 GET /wavemaster.internal (146.179.52.3) 1.16ms referer=None
+[I 2021-12-04 14:03:36.692 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[W 2021-12-04 14:03:36.712 ServerApp] 405 DVBUTD / (146.179.52.3) 0.51ms referer=None
+[I 2021-12-04 14:03:36.974 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-04 14:03:37.005 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-04 14:03:37.023 LabApp] 302 GET /lab (146.179.52.3) 0.54ms
+[W 2021-12-04 14:03:39.241 ServerApp] 404 GET /MSWSMTP/Common/Authentication/Logon.aspx (146.179.52.3) 2.54ms referer=None
+[W 2021-12-04 14:03:39.302 ServerApp] 404 GET /8zN5fgSBqG5J.html (146.179.52.3) 1.40ms referer=None
+[W 2021-12-04 14:03:39.325 ServerApp] 404 GET /8zN5fgSBqG5J.cgi (146.179.52.3) 1.39ms referer=None
+[W 2021-12-04 14:03:39.346 ServerApp] 404 GET /8zN5fgSBqG5J.sh (146.179.52.3) 1.39ms referer=None
+[W 2021-12-04 14:03:39.366 ServerApp] 404 GET /8zN5fgSBqG5J.pl (146.179.52.3) 1.25ms referer=None
+[W 2021-12-04 14:03:39.387 ServerApp] 404 GET /8zN5fgSBqG5J.inc (146.179.52.3) 1.26ms referer=None
+[W 2021-12-04 14:03:39.412 ServerApp] 404 GET /8zN5fgSBqG5J.shtml (146.179.52.3) 1.19ms referer=None
+[W 2021-12-04 14:03:39.432 ServerApp] 404 GET /8zN5fgSBqG5J.asp (146.179.52.3) 1.21ms referer=None
+[W 2021-12-04 14:03:39.452 ServerApp] 404 GET /8zN5fgSBqG5J.php (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:39.473 ServerApp] 404 GET /8zN5fgSBqG5J.php3 (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:39.505 ServerApp] 404 GET /8zN5fgSBqG5J.cfm (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.526 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.html (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.546 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.cgi (146.179.52.3) 1.17ms referer=None
+[W 2021-12-04 14:03:39.567 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.sh (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.598 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.pl (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.618 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.inc (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.639 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.shtml (146.179.52.3) 1.23ms referer=None
+[W 2021-12-04 14:03:39.662 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.asp (146.179.52.3) 1.21ms referer=None
+[W 2021-12-04 14:03:39.681 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.php (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.702 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.php3 (146.179.52.3) 1.25ms referer=None
+[W 2021-12-04 14:03:39.721 ServerApp] 404 GET /cgi-bin/8zN5fgSBqG5J.cfm (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.742 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.html (146.179.52.3) 1.25ms referer=None
+[W 2021-12-04 14:03:39.770 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.cgi (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:39.802 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.sh (146.179.52.3) 1.18ms referer=None
+[W 2021-12-04 14:03:39.822 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.pl (146.179.52.3) 1.21ms referer=None
+[W 2021-12-04 14:03:39.841 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.inc (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:39.860 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.shtml (146.179.52.3) 1.26ms referer=None
+[W 2021-12-04 14:03:39.879 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.asp (146.179.52.3) 1.24ms referer=None
+[W 2021-12-04 14:03:39.898 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.php (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:39.918 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.php3 (146.179.52.3) 1.25ms referer=None
+[W 2021-12-04 14:03:39.943 ServerApp] 404 GET /scripts/8zN5fgSBqG5J.cfm (146.179.52.3) 1.19ms referer=None
+[I 2021-12-04 14:03:40.642 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-04 14:03:40.664 ServerApp] 404 GET /PAN_help/en/wwhelp/wwhimpl/common/private/title.js (146.179.52.3) 3.31ms referer=None
+[W 2021-12-04 14:03:40.726 ServerApp] 404 GET /login.htm (146.179.52.3) 1.19ms referer=None
+[I 2021-12-04 14:03:40.771 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:40.823 ServerApp] 404 GET /qsoap.qap (146.179.52.3) 1.19ms referer=None
+[I 2021-12-04 14:03:40.881 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-04 14:03:40.948 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-04 14:03:41.016 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-04 14:03:41.043 ServerApp] 404 GET /home.seam (146.179.52.3) 1.23ms referer=None
+[I 2021-12-04 14:03:41.108 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:41.129 ServerApp] 404 GET /igsponsor (146.179.52.3) 1.20ms referer=None
+[I 2021-12-04 14:03:41.192 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:41.212 ServerApp] 404 GET /ibmmq/console/login.html (146.179.52.3) 1.24ms referer=None
+[W 2021-12-04 14:03:41.248 ServerApp] 404 GET /ibmmq/console/nls/en/strings.json (146.179.52.3) 1.17ms referer=None
+[I 2021-12-04 14:03:41.424 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[I 2021-12-04 14:03:41.453 ServerApp] 302 GET /HNAP1/ (146.179.52.3) 0.46ms
+[I 2021-12-04 14:03:42.731 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-04 14:03:42.753 ServerApp] 404 GET /autodiscover/autodiscover.xml (146.179.52.3) 1.38ms referer=None
+[I 2021-12-04 14:03:42.787 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:42.857 ServerApp] 404 GET /m_KpF_OX.ashx (146.179.52.3) 1.24ms referer=None
+[I 2021-12-04 14:03:42.864 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-04 14:03:42.877 ServerApp] 404 GET /Kybr7u5f.aspx (146.179.52.3) 1.16ms referer=None
+[W 2021-12-04 14:03:42.898 ServerApp] 404 GET /YKkD8Ych.asmx (146.179.52.3) 1.23ms referer=None
+[W 2021-12-04 14:03:42.919 ServerApp] 404 GET /w0BOJzyB.rem (146.179.52.3) 1.25ms referer=None
+[W 2021-12-04 14:03:42.939 ServerApp] 404 GET /dCYVzSxK.soap (146.179.52.3) 1.26ms referer=None
+[I 2021-12-04 14:03:42.960 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-04 14:03:42.980 ServerApp] 404 GET /vsmc.html (146.179.52.3) 1.61ms referer=None
+[I 2021-12-04 14:03:43.061 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-04 14:03:43.080 ServerApp] 404 GET /ui/faces/Login.xhtml (146.179.52.3) 1.23ms referer=None
+[W 2021-12-04 14:03:43.115 ServerApp] 404 GET /index.html (146.179.52.3) 1.19ms referer=None
+[I 2021-12-04 14:03:43.116 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-04 14:03:43.136 ServerApp] 404 GET /ZPyXTr34.aspx (146.179.52.3) 1.29ms referer=None
+[I 2021-12-04 14:03:43.202 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-04 14:03:43.208 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:43.224 ServerApp] 404 GET /app/ui/login.jsp (146.179.52.3) 1.25ms referer=None
+[I 2021-12-04 14:03:43.349 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-04 14:03:43.351 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-04 14:03:43.369 ServerApp] 302 GET / (146.179.52.3) 0.48ms
+[W 2021-12-04 14:03:43.373 ServerApp] 404 GET /system.xml (146.179.52.3) 1.34ms referer=None
+[I 2021-12-04 14:03:43.388 LabApp] 302 GET /lab (146.179.52.3) 0.58ms
+[I 2021-12-04 14:03:43.452 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-04 14:03:43.477 ServerApp] 404 GET /getxml (146.179.52.3) 1.29ms referer=None
+[I 2021-12-04 14:03:43.544 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2021-12-04 14:03:43.547 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:43.569 ServerApp] 404 GET /cwhp/CSMSDesktop/about.jsp (146.179.52.3) 1.23ms referer=None
+[W 2021-12-04 14:03:43.590 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.17ms referer=None
+[I 2021-12-04 14:03:43.635 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-04 14:03:43.656 ServerApp] 404 GET /lang_pack/EN.js (146.179.52.3) 1.32ms referer=None
+[I 2021-12-04 14:03:43.677 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:43.698 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.23ms referer=None
+[I 2021-12-04 14:03:43.729 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-04 14:03:43.755 ServerApp] 404 GET /about.jsp (146.179.52.3) 1.27ms referer=None
+[I 2021-12-04 14:03:43.762 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-04 14:03:43.781 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.18ms referer=None
+[I 2021-12-04 14:03:43.829 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-04 14:03:43.853 ServerApp] 404 GET /login.html (146.179.52.3) 1.24ms referer=None
+[I 2021-12-04 14:03:43.859 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-04 14:03:43.962 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-04 14:03:43.986 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2021-12-04 14:03:43.989 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2021-12-04 14:03:44.008 ServerApp] 404 GET /csamc52/webadmin?page=invalid&type=browser (146.179.52.3) 1.27ms referer=None
+[I 2021-12-04 14:03:44.055 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-04 14:03:44.078 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-04 14:03:44.080 ServerApp] 404 GET /login.html (146.179.52.3) 1.20ms referer=None
+[W 2021-12-04 14:03:44.099 ServerApp] 404 GET /+CSCOE+/logon.html (146.179.52.3) 1.25ms referer=None
+[I 2021-12-04 14:03:44.160 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-04 14:03:44.186 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-04 14:03:44.187 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2021-12-04 14:03:44.206 ServerApp] 404 GET /nls/ApplicationProperties-en.json (146.179.52.3) 1.23ms referer=None
+[I 2021-12-04 14:03:44.259 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[I 2021-12-04 14:03:44.283 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-04 14:03:44.288 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?ver (146.179.52.3) 1.21ms referer=None
+[W 2021-12-04 14:03:44.304 ServerApp] 404 GET /+CSCOT+/translation-table?type=mst&textdomain=%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ (146.179.52.3) 1.29ms referer=None
+[W 2021-12-04 14:03:44.309 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?Init+0 (146.179.52.3) 1.24ms referer=None
+[W 2021-12-04 14:03:44.324 ServerApp] 404 GET /+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua (146.179.52.3) 1.25ms referer=None
+[I 2021-12-04 14:03:44.378 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-04 14:03:44.456 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-04 14:03:44.478 ServerApp] 404 GET /this_page_should_not_exist.htm (146.179.52.3) 1.21ms referer=None
+[W 2021-12-04 14:03:44.494 ServerApp] 404 GET /server-info (146.179.52.3) 1.24ms referer=None
+[I 2021-12-04 14:03:50.271 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-04 14:03:50.291 ServerApp] 302 GET / (146.179.52.3) 0.50ms
+[I 2021-12-04 14:03:50.309 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[W 2021-12-04 14:03:50.389 ServerApp] 404 GET /xsql/demo/airport/airport.xsql?xml-stylesheet=none (146.179.52.3) 2.25ms referer=None
+[I 2021-12-04 14:03:50.433 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-04 14:03:50.453 ServerApp] 404 GET /cwhp/XmpFileDownloadServlet?parameterName=downloadDoc&downloadDirectory=..\..\..\Windows\System32\drivers\etc\&readmeText=1 (146.179.52.3) 1.21ms referer=None
+[I 2021-12-04 14:03:50.510 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-04 14:03:50.528 ServerApp] 302 GET /dev/ (146.179.52.3) 0.45ms
+[W 2021-12-04 14:04:26.067 ServerApp] SSL Error on 11 ('146.179.52.3', 20644): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-04 14:04:27.157 ServerApp] SSL Error on 11 ('146.179.52.3', 20681): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-04 14:04:28.172 ServerApp] SSL Error on 11 ('146.179.52.3', 20709): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[W 2021-12-04 14:04:29.199 ServerApp] SSL Error on 11 ('146.179.52.3', 20765): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[I 2021-12-04 14:04:44.763 ServerApp] 302 GET / (146.179.52.3) 0.53ms
+[I 2021-12-04 14:04:44.768 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2021-12-04 14:04:44.835 ServerApp] 404 GET /axis2/services/CUPMService/ping (146.179.52.3) 12.63ms referer=None
+[W 2021-12-04 14:04:44.836 ServerApp] 404 GET /emsam/index.html (146.179.52.3) 1.23ms referer=None
+[W 2021-12-04 14:04:44.986 ServerApp] 404 GET /dfcweb/lib/cupm/nls/applicationproperties.js (146.179.52.3) 1.19ms referer=None
+[W 2021-12-06 03:26:02.652 ServerApp] WebSocket ping timeout after 119699 ms.
+[I 2021-12-06 03:26:07.658 ServerApp] Starting buffering for 59e85ed4-8066-4618-bcaf-d835ec1e30a7:72737ea5-14c4-4958-9268-9567c141c1c1
+[W 2021-12-06 05:01:28.916 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-12-06 05:01:30.119 ServerApp] Notebook 20211118_SST.ipynb is not trusted
+[I 2021-12-06 05:01:33.723 ServerApp] Kernel started: 4fedd38d-3ab4-417e-84a4-bf9253085c8b
+[W 2021-12-06 05:01:34.567 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-08 04:23:05.383 ServerApp] Starting buffering for 59e85ed4-8066-4618-bcaf-d835ec1e30a7:c44486e9-b633-4bc1-91eb-fc8844687c7d
+[W 2021-12-08 04:33:18.955 ServerApp] Notebook 20211118_temp.ipynb is not trusted
+[I 2021-12-08 04:33:25.715 ServerApp] Kernel started: e035bf32-5b05-4c8e-960d-b99f0aa89587
+[I 2021-12-08 04:35:26.553 ServerApp] Saving file at /20211118_temp.ipynb
+[W 2021-12-08 04:35:26.579 ServerApp] Notebook 20211118_temp.ipynb is not trusted
+[I 2021-12-08 04:37:32.939 ServerApp] Saving file at /20211118_temp.ipynb
+[W 2021-12-08 04:37:32.940 ServerApp] Notebook 20211118_temp.ipynb is not trusted
+[I 2021-12-08 04:41:35.586 ServerApp] Saving file at /20211118_temp.ipynb
+[W 2021-12-08 04:41:35.586 ServerApp] Notebook 20211118_temp.ipynb is not trusted
+[I 2021-12-08 04:43:38.467 ServerApp] Saving file at /20211118_temp.ipynb
+[W 2021-12-08 04:43:38.468 ServerApp] Notebook 20211118_temp.ipynb is not trusted
+[I 2021-12-08 04:45:43.572 ServerApp] Saving file at /20211118_temp.ipynb
+[W 2021-12-08 04:45:43.572 ServerApp] Notebook 20211118_temp.ipynb is not trusted
+[W 2021-12-09 18:25:35.598 ServerApp] Replacing stale connection: 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[W 2021-12-09 18:25:37.814 ServerApp] Replacing stale connection: e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:25:40.601 ServerApp] Starting buffering for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-09 18:25:40.602 ServerApp] Restoring connection for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-09 18:25:40.792 ServerApp] Starting buffering for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-09 18:25:42.815 ServerApp] Starting buffering for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:25:42.815 ServerApp] Restoring connection for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:25:43.106 ServerApp] Restoring connection for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[W 2021-12-09 18:26:03.135 ServerApp] Replacing stale connection: e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:26:03.217 ServerApp] Starting buffering for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:26:03.218 ServerApp] Restoring connection for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:26:03.305 ServerApp] Starting buffering for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 18:26:04.439 ServerApp] Restoring connection for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-09 19:06:34.273 ServerApp] Starting buffering for e035bf32-5b05-4c8e-960d-b99f0aa89587:cce6bff4-facc-46f0-bcb0-4715c54a21b7
+[I 2021-12-10 14:08:18.031 ServerApp] Starting buffering for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-10 14:08:29.786 ServerApp] Restoring connection for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[W 2021-12-10 14:09:24.828 ServerApp] Replacing stale connection: 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-10 14:09:24.926 ServerApp] Starting buffering for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-10 14:09:24.928 ServerApp] Restoring connection for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-10 14:09:25.030 ServerApp] Starting buffering for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[I 2021-12-10 14:09:26.177 ServerApp] Restoring connection for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[W 2021-12-11 14:00:50.605 ServerApp] SSL Error on 13 ('146.179.52.3', 56621): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-11 14:01:22.739 ServerApp] 302 GET / (146.179.52.3) 0.90ms
+[W 2021-12-11 14:02:22.055 ServerApp] SSL Error on 13 ('146.179.52.3', 60523): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-11 14:02:26.062 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-11 14:02:26.082 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-11 14:02:26.099 ServerApp] 403 POST /sdk (146.179.52.3) 17.84ms referer=None
+[I 2021-12-11 14:02:26.190 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:26.209 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-11 14:02:26.211 ServerApp] 403 POST /sdk (146.179.52.3) 1.58ms referer=None
+[I 2021-12-11 14:02:33.352 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[I 2021-12-11 14:02:33.391 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:33.415 ServerApp] 404 GET /properties/description.dhtml (146.179.52.3) 4.77ms referer=None
+[W 2021-12-11 14:02:33.441 ServerApp] 404 GET /properties/configuration.php?tab=Status (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:33.460 ServerApp] 404 GET /header.php?tab=status (146.179.52.3) 1.16ms referer=None
+[I 2021-12-11 14:02:33.563 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-11 14:02:33.582 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[I 2021-12-11 14:02:33.640 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-11 14:02:33.659 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2021-12-11 14:02:33.677 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-11 14:02:33.759 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-11 14:02:33.783 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2021-12-11 14:02:33.802 ServerApp] 404 GET /login.php (146.179.52.3) 1.18ms referer=None
+[W 2021-12-11 14:02:33.824 ServerApp] 404 GET /this_server/all_settings.shtml (146.179.52.3) 1.13ms referer=None
+[I 2021-12-11 14:02:33.850 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-11 14:02:33.870 LabApp] 302 GET /lab (146.179.52.3) 0.72ms
+[W 2021-12-11 14:02:33.904 ServerApp] 404 GET /authenticate/login (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:33.929 ServerApp] 404 GET /start.js (146.179.52.3) 1.15ms referer=None
+[I 2021-12-11 14:02:33.951 ServerApp] 302 GET /tmui/ (146.179.52.3) 0.48ms
+[W 2021-12-11 14:02:34.006 ServerApp] 404 GET /netmri/config/userAdmin/login.tdf (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.028 ServerApp] 404 GET /scgi-bin/platform.cgi (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.049 ServerApp] 404 GET /admin/login.do (146.179.52.3) 1.16ms referer=None
+[W 2021-12-11 14:02:34.071 ServerApp] 404 GET /en/main.js (146.179.52.3) 1.16ms referer=None
+[W 2021-12-11 14:02:34.092 ServerApp] 404 GET /mgmt/login?dest=%2Fmgmt%2Fgui%3Fp%3Dhome&reason=&username= (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:34.112 ServerApp] 404 GET /dms2/Login.jsp (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.155 ServerApp] 404 GET /home.htm (146.179.52.3) 1.11ms referer=None
+[W 2021-12-11 14:02:34.175 ServerApp] 404 GET /sws/data/sws_data.js (146.179.52.3) 1.11ms referer=None
+[W 2021-12-11 14:02:34.197 ServerApp] 404 GET /wcd/system.xml (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.217 ServerApp] 404 GET /js/Device.js (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.241 ServerApp] 404 GET /ptz.htm (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.262 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:34.284 ServerApp] 404 GET /loginMsg.js (146.179.52.3) 1.14ms referer=None
+[I 2021-12-11 14:02:34.819 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:34.840 ServerApp] 404 GET /login.html (146.179.52.3) 1.17ms referer=None
+[I 2021-12-11 14:02:34.905 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-11 14:02:34.925 ServerApp] 404 GET /Home.do (146.179.52.3) 1.19ms referer=None
+[I 2021-12-11 14:02:34.988 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-11 14:02:35.009 ServerApp] 404 GET http://rfi.nessus.org/check_proxy.html (146.179.52.3) 1.17ms referer=None
+[I 2021-12-11 14:02:35.056 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-11 14:02:35.075 ServerApp] 302 GET // (146.179.52.3) 0.44ms
+[W 2021-12-11 14:02:35.136 ServerApp] 404 GET /intruvert/jsp/admin/Login.jsp (146.179.52.3) 1.25ms referer=None
+[W 2021-12-11 14:02:35.178 ServerApp] 404 GET /commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm (146.179.52.3) 1.23ms referer=None
+[I 2021-12-11 14:02:35.221 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:35.240 ServerApp] 404 GET /xmldata?item=All (146.179.52.3) 1.20ms referer=None
+[W 2021-12-11 14:02:35.263 ServerApp] 404 GET /upnp/BasicDevice.xml (146.179.52.3) 1.12ms referer=None
+[I 2021-12-11 14:02:35.283 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-11 14:02:35.368 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-11 14:02:35.393 ServerApp] 404 GET /robots.txt (146.179.52.3) 4.55ms referer=None
+[W 2021-12-11 14:02:35.412 ServerApp] 404 GET /sitemap.xml (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:35.434 ServerApp] 404 GET /.cobalt (146.179.52.3) 1.13ms referer=None
+[W 2021-12-11 14:02:35.455 ServerApp] 404 GET /admin.back (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:35.476 ServerApp] 404 GET /file (146.179.52.3) 1.18ms referer=None
+[W 2021-12-11 14:02:35.499 ServerApp] 404 GET /wavemaster.internal (146.179.52.3) 1.18ms referer=None
+[I 2021-12-11 14:02:35.520 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-11 14:02:35.540 ServerApp] 405 ZLGKTT / (146.179.52.3) 0.51ms referer=None
+[I 2021-12-11 14:02:35.753 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-11 14:02:35.772 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-11 14:02:35.793 LabApp] 302 GET /lab (146.179.52.3) 0.54ms
+[W 2021-12-11 14:02:38.261 ServerApp] 404 GET /MSWSMTP/Common/Authentication/Logon.aspx (146.179.52.3) 2.22ms referer=None
+[W 2021-12-11 14:02:38.315 ServerApp] 404 GET /FpJFY4hDj_dp.html (146.179.52.3) 1.20ms referer=None
+[W 2021-12-11 14:02:38.335 ServerApp] 404 GET /FpJFY4hDj_dp.cgi (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:38.355 ServerApp] 404 GET /FpJFY4hDj_dp.sh (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:38.374 ServerApp] 404 GET /FpJFY4hDj_dp.pl (146.179.52.3) 1.16ms referer=None
+[W 2021-12-11 14:02:38.395 ServerApp] 404 GET /FpJFY4hDj_dp.inc (146.179.52.3) 1.25ms referer=None
+[W 2021-12-11 14:02:38.416 ServerApp] 404 GET /FpJFY4hDj_dp.shtml (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:38.437 ServerApp] 404 GET /FpJFY4hDj_dp.asp (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:38.458 ServerApp] 404 GET /FpJFY4hDj_dp.php (146.179.52.3) 1.18ms referer=None
+[W 2021-12-11 14:02:38.481 ServerApp] 404 GET /FpJFY4hDj_dp.php3 (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.502 ServerApp] 404 GET /FpJFY4hDj_dp.cfm (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.523 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.html (146.179.52.3) 1.16ms referer=None
+[W 2021-12-11 14:02:38.546 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.cgi (146.179.52.3) 1.22ms referer=None
+[W 2021-12-11 14:02:38.569 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.sh (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:38.592 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.pl (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.612 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.inc (146.179.52.3) 1.18ms referer=None
+[W 2021-12-11 14:02:38.632 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.shtml (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:38.654 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.asp (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:38.675 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.php (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:38.695 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.php3 (146.179.52.3) 1.25ms referer=None
+[W 2021-12-11 14:02:38.716 ServerApp] 404 GET /cgi-bin/FpJFY4hDj_dp.cfm (146.179.52.3) 1.18ms referer=None
+[W 2021-12-11 14:02:38.737 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.html (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.756 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.cgi (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.778 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.sh (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:38.810 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.pl (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.830 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.inc (146.179.52.3) 1.17ms referer=None
+[W 2021-12-11 14:02:38.850 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.shtml (146.179.52.3) 1.16ms referer=None
+[W 2021-12-11 14:02:38.870 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.asp (146.179.52.3) 1.22ms referer=None
+[W 2021-12-11 14:02:38.889 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.php (146.179.52.3) 1.16ms referer=None
+[W 2021-12-11 14:02:38.920 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.php3 (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:38.942 ServerApp] 404 GET /scripts/FpJFY4hDj_dp.cfm (146.179.52.3) 1.19ms referer=None
+[I 2021-12-11 14:02:39.627 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:39.649 ServerApp] 404 GET /PAN_help/en/wwhelp/wwhimpl/common/private/title.js (146.179.52.3) 3.33ms referer=None
+[W 2021-12-11 14:02:39.724 ServerApp] 404 GET /login.htm (146.179.52.3) 1.17ms referer=None
+[I 2021-12-11 14:02:39.781 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:39.808 ServerApp] 404 GET /qsoap.qap (146.179.52.3) 1.16ms referer=None
+[I 2021-12-11 14:02:39.877 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2021-12-11 14:02:39.901 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-11 14:02:39.980 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-11 14:02:39.999 ServerApp] 404 GET /home.seam (146.179.52.3) 2.28ms referer=None
+[I 2021-12-11 14:02:40.077 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-11 14:02:40.104 ServerApp] 404 GET /igsponsor (146.179.52.3) 1.19ms referer=None
+[I 2021-12-11 14:02:40.183 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:40.202 ServerApp] 404 GET /ibmmq/console/login.html (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:40.221 ServerApp] 404 GET /ibmmq/console/nls/en/strings.json (146.179.52.3) 1.15ms referer=None
+[I 2021-12-11 14:02:40.299 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-11 14:02:40.320 ServerApp] 302 GET /HNAP1/ (146.179.52.3) 0.43ms
+[I 2021-12-11 14:02:40.340 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:40.360 ServerApp] 404 GET /autodiscover/autodiscover.xml (146.179.52.3) 1.17ms referer=None
+[I 2021-12-11 14:02:40.420 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:40.440 ServerApp] 404 GET /DjUYNAPr.ashx (146.179.52.3) 1.19ms referer=None
+[W 2021-12-11 14:02:40.459 ServerApp] 404 GET /H3mryYCF.aspx (146.179.52.3) 1.18ms referer=None
+[W 2021-12-11 14:02:40.479 ServerApp] 404 GET /SZICMKeG.asmx (146.179.52.3) 1.12ms referer=None
+[W 2021-12-11 14:02:40.498 ServerApp] 404 GET /WXGD1biH.rem (146.179.52.3) 1.13ms referer=None
+[W 2021-12-11 14:02:40.518 ServerApp] 404 GET /N5ta2jfF.soap (146.179.52.3) 1.13ms referer=None
+[I 2021-12-11 14:02:40.663 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:40.682 ServerApp] 404 GET /MtlbR5hq.aspx (146.179.52.3) 1.17ms referer=None
+[I 2021-12-11 14:02:40.743 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-11 14:02:40.828 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:40.848 ServerApp] 404 GET /vsmc.html (146.179.52.3) 1.16ms referer=None
+[I 2021-12-11 14:02:40.913 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:40.931 ServerApp] 404 GET /app/ui/login.jsp (146.179.52.3) 1.21ms referer=None
+[I 2021-12-11 14:02:40.997 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:41.015 ServerApp] 404 GET /ui/faces/Login.xhtml (146.179.52.3) 1.21ms referer=None
+[W 2021-12-11 14:02:41.034 ServerApp] 404 GET /index.html (146.179.52.3) 1.13ms referer=None
+[I 2021-12-11 14:02:41.132 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-11 14:02:41.217 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-11 14:02:41.237 ServerApp] 404 GET /system.xml (146.179.52.3) 1.25ms referer=None
+[I 2021-12-11 14:02:41.306 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:41.324 ServerApp] 404 GET /getxml (146.179.52.3) 1.24ms referer=None
+[I 2021-12-11 14:02:41.396 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-11 14:02:41.409 ServerApp] 302 GET / (146.179.52.3) 2.55ms
+[I 2021-12-11 14:02:41.431 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-11 14:02:41.451 LabApp] 302 GET /lab (146.179.52.3) 0.56ms
+[I 2021-12-11 14:02:41.491 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-11 14:02:41.511 ServerApp] 404 GET /cwhp/CSMSDesktop/about.jsp (146.179.52.3) 1.27ms referer=None
+[W 2021-12-11 14:02:41.531 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.23ms referer=None
+[I 2021-12-11 14:02:41.607 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-11 14:02:41.629 ServerApp] 404 GET /lang_pack/EN.js (146.179.52.3) 1.28ms referer=None
+[I 2021-12-11 14:02:41.631 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-11 14:02:41.651 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.22ms referer=None
+[I 2021-12-11 14:02:41.696 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:41.715 ServerApp] 404 GET /about.jsp (146.179.52.3) 1.27ms referer=None
+[I 2021-12-11 14:02:41.721 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:41.740 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.22ms referer=None
+[I 2021-12-11 14:02:41.788 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:41.809 ServerApp] 404 GET /login.html (146.179.52.3) 1.24ms referer=None
+[I 2021-12-11 14:02:41.816 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-11 14:02:41.881 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-11 14:02:41.904 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-11 14:02:41.906 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-11 14:02:41.931 ServerApp] 404 GET /csamc52/webadmin?page=invalid&type=browser (146.179.52.3) 1.22ms referer=None
+[I 2021-12-11 14:02:41.976 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-11 14:02:41.996 ServerApp] 302 GET / (146.179.52.3) 0.94ms
+[W 2021-12-11 14:02:41.999 ServerApp] 404 GET /login.html (146.179.52.3) 1.24ms referer=None
+[W 2021-12-11 14:02:42.017 ServerApp] 404 GET /+CSCOE+/logon.html (146.179.52.3) 1.22ms referer=None
+[I 2021-12-11 14:02:42.082 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2021-12-11 14:02:42.088 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-11 14:02:42.104 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2021-12-11 14:02:42.107 ServerApp] 404 GET /nls/ApplicationProperties-en.json (146.179.52.3) 1.29ms referer=None
+[I 2021-12-11 14:02:42.177 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-11 14:02:42.182 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-11 14:02:42.198 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?ver (146.179.52.3) 1.27ms referer=None
+[W 2021-12-11 14:02:42.201 ServerApp] 404 GET /+CSCOT+/translation-table?type=mst&textdomain=%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ (146.179.52.3) 1.34ms referer=None
+[W 2021-12-11 14:02:42.221 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?Init+0 (146.179.52.3) 1.22ms referer=None
+[W 2021-12-11 14:02:42.223 ServerApp] 404 GET /+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua (146.179.52.3) 1.17ms referer=None
+[I 2021-12-11 14:02:42.298 ServerApp] 302 GET / (146.179.52.3) 0.48ms
+[I 2021-12-11 14:02:42.301 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-11 14:02:42.326 ServerApp] 404 GET /server-info (146.179.52.3) 1.26ms referer=None
+[W 2021-12-11 14:02:42.329 ServerApp] 404 GET /this_page_should_not_exist.htm (146.179.52.3) 1.29ms referer=None
+[I 2021-12-11 14:02:44.641 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-11 14:02:44.660 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[I 2021-12-11 14:02:44.678 ServerApp] 302 GET / (146.179.52.3) 0.50ms
+[W 2021-12-11 14:02:44.758 ServerApp] 404 GET /xsql/demo/airport/airport.xsql?xml-stylesheet=none (146.179.52.3) 2.18ms referer=None
+[I 2021-12-11 14:02:44.802 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-11 14:02:44.821 ServerApp] 404 GET /cwhp/XmpFileDownloadServlet?parameterName=downloadDoc&downloadDirectory=..\..\..\Windows\System32\drivers\etc\&readmeText=1 (146.179.52.3) 1.20ms referer=None
+[I 2021-12-11 14:02:44.882 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-11 14:02:44.900 ServerApp] 302 GET /dev/ (146.179.52.3) 0.43ms
+[W 2021-12-11 14:03:26.074 ServerApp] SSL Error on 13 ('146.179.52.3', 1991): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-11 14:03:26.084 ServerApp] SSL Error on 13 ('146.179.52.3', 1993): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-11 14:03:26.094 ServerApp] SSL Error on 13 ('146.179.52.3', 1994): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[W 2021-12-11 14:03:27.118 ServerApp] SSL Error on 13 ('146.179.52.3', 2006): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[I 2021-12-11 14:03:41.459 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-11 14:03:41.462 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-11 14:03:41.515 ServerApp] 404 GET /emsam/index.html (146.179.52.3) 12.69ms referer=None
+[W 2021-12-11 14:03:41.516 ServerApp] 404 GET /axis2/services/CUPMService/ping (146.179.52.3) 1.22ms referer=None
+[W 2021-12-11 14:03:41.640 ServerApp] 404 GET /dfcweb/lib/cupm/nls/applicationproperties.js (146.179.52.3) 1.33ms referer=None
+[W 2021-12-13 17:00:56.179 ServerApp] WebSocket ping timeout after 119869 ms.
+[I 2021-12-13 17:01:01.181 ServerApp] Starting buffering for 4fedd38d-3ab4-417e-84a4-bf9253085c8b:3d788216-19ec-4a10-9cb7-11457e0aa55b
+[W 2021-12-18 14:01:13.726 ServerApp] SSL Error on 12 ('146.179.52.3', 48302): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-18 14:01:44.017 ServerApp] 302 GET / (146.179.52.3) 1.14ms
+[W 2021-12-18 14:02:51.986 ServerApp] SSL Error on 12 ('146.179.52.3', 52455): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-18 14:02:56.086 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[W 2021-12-18 14:02:56.107 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-18 14:02:56.120 ServerApp] 403 POST /sdk (146.179.52.3) 14.22ms referer=None
+[I 2021-12-18 14:02:56.245 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2021-12-18 14:02:56.272 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-18 14:02:56.273 ServerApp] 403 POST /sdk (146.179.52.3) 1.67ms referer=None
+[I 2021-12-18 14:03:04.905 ServerApp] 302 GET / (146.179.52.3) 0.53ms
+[I 2021-12-18 14:03:04.951 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:04.972 ServerApp] 404 GET /properties/description.dhtml (146.179.52.3) 2.50ms referer=None
+[W 2021-12-18 14:03:04.993 ServerApp] 404 GET /properties/configuration.php?tab=Status (146.179.52.3) 1.22ms referer=None
+[W 2021-12-18 14:03:05.018 ServerApp] 404 GET /header.php?tab=status (146.179.52.3) 1.35ms referer=None
+[I 2021-12-18 14:03:05.195 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-18 14:03:05.217 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2021-12-18 14:03:05.295 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-18 14:03:05.317 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-18 14:03:05.338 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[I 2021-12-18 14:03:05.465 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2021-12-18 14:03:05.487 ServerApp] 302 GET / (146.179.52.3) 0.50ms
+[W 2021-12-18 14:03:05.510 ServerApp] 404 GET /login.php (146.179.52.3) 1.40ms referer=None
+[W 2021-12-18 14:03:05.544 ServerApp] 404 GET /this_server/all_settings.shtml (146.179.52.3) 1.32ms referer=None
+[I 2021-12-18 14:03:05.686 ServerApp] 302 GET / (146.179.52.3) 0.50ms
+[I 2021-12-18 14:03:05.704 LabApp] 302 GET /lab (146.179.52.3) 0.66ms
+[W 2021-12-18 14:03:05.726 ServerApp] 404 GET /authenticate/login (146.179.52.3) 1.15ms referer=None
+[W 2021-12-18 14:03:05.746 ServerApp] 404 GET /start.js (146.179.52.3) 1.13ms referer=None
+[I 2021-12-18 14:03:05.765 ServerApp] 302 GET /tmui/ (146.179.52.3) 0.44ms
+[W 2021-12-18 14:03:05.806 ServerApp] 404 GET /netmri/config/userAdmin/login.tdf (146.179.52.3) 1.13ms referer=None
+[W 2021-12-18 14:03:05.826 ServerApp] 404 GET /scgi-bin/platform.cgi (146.179.52.3) 1.20ms referer=None
+[W 2021-12-18 14:03:05.847 ServerApp] 404 GET /admin/login.do (146.179.52.3) 1.13ms referer=None
+[W 2021-12-18 14:03:05.868 ServerApp] 404 GET /en/main.js (146.179.52.3) 1.13ms referer=None
+[W 2021-12-18 14:03:05.889 ServerApp] 404 GET /mgmt/login?dest=%2Fmgmt%2Fgui%3Fp%3Dhome&reason=&username= (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:03:05.909 ServerApp] 404 GET /dms2/Login.jsp (146.179.52.3) 1.13ms referer=None
+[W 2021-12-18 14:03:05.947 ServerApp] 404 GET /home.htm (146.179.52.3) 1.13ms referer=None
+[W 2021-12-18 14:03:05.967 ServerApp] 404 GET /sws/data/sws_data.js (146.179.52.3) 1.13ms referer=None
+[W 2021-12-18 14:03:05.986 ServerApp] 404 GET /wcd/system.xml (146.179.52.3) 1.22ms referer=None
+[W 2021-12-18 14:03:06.007 ServerApp] 404 GET /js/Device.js (146.179.52.3) 1.15ms referer=None
+[W 2021-12-18 14:03:06.029 ServerApp] 404 GET /ptz.htm (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:06.118 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.34ms referer=None
+[W 2021-12-18 14:03:06.141 ServerApp] 404 GET /loginMsg.js (146.179.52.3) 1.12ms referer=None
+[I 2021-12-18 14:03:10.582 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-18 14:03:10.601 ServerApp] 404 GET /login.html (146.179.52.3) 1.19ms referer=None
+[I 2021-12-18 14:03:10.662 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:10.680 ServerApp] 404 GET /Home.do (146.179.52.3) 1.22ms referer=None
+[I 2021-12-18 14:03:10.740 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:10.759 ServerApp] 404 GET http://rfi.nessus.org/check_proxy.html (146.179.52.3) 1.18ms referer=None
+[I 2021-12-18 14:03:10.802 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-18 14:03:10.825 ServerApp] 302 GET // (146.179.52.3) 0.44ms
+[W 2021-12-18 14:03:10.891 ServerApp] 404 GET /intruvert/jsp/admin/Login.jsp (146.179.52.3) 1.20ms referer=None
+[W 2021-12-18 14:03:10.931 ServerApp] 404 GET /commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm (146.179.52.3) 1.19ms referer=None
+[I 2021-12-18 14:03:10.974 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-18 14:03:10.994 ServerApp] 404 GET /xmldata?item=All (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:03:11.012 ServerApp] 404 GET /upnp/BasicDevice.xml (146.179.52.3) 1.17ms referer=None
+[I 2021-12-18 14:03:11.031 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-18 14:03:11.096 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2021-12-18 14:03:11.113 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-18 14:03:11.118 ServerApp] 404 GET /robots.txt (146.179.52.3) 2.33ms referer=None
+[I 2021-12-18 14:03:11.134 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2021-12-18 14:03:11.137 ServerApp] 404 GET /sitemap.xml (146.179.52.3) 1.21ms referer=None
+[I 2021-12-18 14:03:11.155 LabApp] 302 GET /lab (146.179.52.3) 0.58ms
+[W 2021-12-18 14:03:11.159 ServerApp] 404 GET /.cobalt (146.179.52.3) 1.28ms referer=None
+[W 2021-12-18 14:03:11.179 ServerApp] 404 GET /admin.back (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:11.199 ServerApp] 404 GET /file (146.179.52.3) 1.16ms referer=None
+[W 2021-12-18 14:03:11.221 ServerApp] 404 GET /wavemaster.internal (146.179.52.3) 1.13ms referer=None
+[I 2021-12-18 14:03:11.239 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-18 14:03:11.259 ServerApp] 405 YHCTXX / (146.179.52.3) 0.47ms referer=None
+[W 2021-12-18 14:03:11.461 ServerApp] 404 GET /MSWSMTP/Common/Authentication/Logon.aspx (146.179.52.3) 1.16ms referer=None
+[W 2021-12-18 14:03:13.914 ServerApp] 404 GET /5mciIZfo78Vu.html (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:13.933 ServerApp] 404 GET /5mciIZfo78Vu.cgi (146.179.52.3) 1.20ms referer=None
+[W 2021-12-18 14:03:13.953 ServerApp] 404 GET /5mciIZfo78Vu.sh (146.179.52.3) 1.21ms referer=None
+[W 2021-12-18 14:03:13.973 ServerApp] 404 GET /5mciIZfo78Vu.pl (146.179.52.3) 1.24ms referer=None
+[W 2021-12-18 14:03:13.997 ServerApp] 404 GET /5mciIZfo78Vu.inc (146.179.52.3) 1.17ms referer=None
+[W 2021-12-18 14:03:14.030 ServerApp] 404 GET /5mciIZfo78Vu.shtml (146.179.52.3) 1.38ms referer=None
+[W 2021-12-18 14:03:14.052 ServerApp] 404 GET /5mciIZfo78Vu.asp (146.179.52.3) 1.30ms referer=None
+[W 2021-12-18 14:03:14.074 ServerApp] 404 GET /5mciIZfo78Vu.php (146.179.52.3) 1.28ms referer=None
+[W 2021-12-18 14:03:14.094 ServerApp] 404 GET /5mciIZfo78Vu.php3 (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:03:14.116 ServerApp] 404 GET /5mciIZfo78Vu.cfm (146.179.52.3) 1.22ms referer=None
+[W 2021-12-18 14:03:14.139 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.html (146.179.52.3) 1.20ms referer=None
+[W 2021-12-18 14:03:14.164 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.cgi (146.179.52.3) 1.24ms referer=None
+[W 2021-12-18 14:03:14.184 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.sh (146.179.52.3) 1.20ms referer=None
+[W 2021-12-18 14:03:14.203 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.pl (146.179.52.3) 1.21ms referer=None
+[W 2021-12-18 14:03:14.220 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.inc (146.179.52.3) 1.30ms referer=None
+[W 2021-12-18 14:03:14.240 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.shtml (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:03:14.259 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.asp (146.179.52.3) 1.22ms referer=None
+[W 2021-12-18 14:03:14.280 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.php (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:03:14.300 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.php3 (146.179.52.3) 1.17ms referer=None
+[W 2021-12-18 14:03:14.320 ServerApp] 404 GET /cgi-bin/5mciIZfo78Vu.cfm (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:14.338 ServerApp] 404 GET /scripts/5mciIZfo78Vu.html (146.179.52.3) 1.17ms referer=None
+[W 2021-12-18 14:03:14.357 ServerApp] 404 GET /scripts/5mciIZfo78Vu.cgi (146.179.52.3) 1.26ms referer=None
+[W 2021-12-18 14:03:14.377 ServerApp] 404 GET /scripts/5mciIZfo78Vu.sh (146.179.52.3) 1.16ms referer=None
+[W 2021-12-18 14:03:14.397 ServerApp] 404 GET /scripts/5mciIZfo78Vu.pl (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:03:14.415 ServerApp] 404 GET /scripts/5mciIZfo78Vu.inc (146.179.52.3) 1.16ms referer=None
+[W 2021-12-18 14:03:14.438 ServerApp] 404 GET /scripts/5mciIZfo78Vu.shtml (146.179.52.3) 1.23ms referer=None
+[W 2021-12-18 14:03:14.458 ServerApp] 404 GET /scripts/5mciIZfo78Vu.asp (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:14.478 ServerApp] 404 GET /scripts/5mciIZfo78Vu.php (146.179.52.3) 1.21ms referer=None
+[W 2021-12-18 14:03:14.498 ServerApp] 404 GET /scripts/5mciIZfo78Vu.php3 (146.179.52.3) 1.26ms referer=None
+[W 2021-12-18 14:03:14.517 ServerApp] 404 GET /scripts/5mciIZfo78Vu.cfm (146.179.52.3) 1.17ms referer=None
+[I 2021-12-18 14:03:15.150 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:15.169 ServerApp] 404 GET /PAN_help/en/wwhelp/wwhimpl/common/private/title.js (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:15.230 ServerApp] 404 GET /login.htm (146.179.52.3) 1.18ms referer=None
+[I 2021-12-18 14:03:15.277 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:15.295 ServerApp] 404 GET /qsoap.qap (146.179.52.3) 1.23ms referer=None
+[I 2021-12-18 14:03:15.353 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-18 14:03:15.372 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-18 14:03:15.436 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:15.460 ServerApp] 404 GET /home.seam (146.179.52.3) 1.22ms referer=None
+[I 2021-12-18 14:03:15.730 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2021-12-18 14:03:15.750 ServerApp] 404 GET /igsponsor (146.179.52.3) 1.41ms referer=None
+[I 2021-12-18 14:03:15.810 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-18 14:03:15.830 ServerApp] 404 GET /ibmmq/console/login.html (146.179.52.3) 1.38ms referer=None
+[W 2021-12-18 14:03:15.850 ServerApp] 404 GET /ibmmq/console/nls/en/strings.json (146.179.52.3) 1.17ms referer=None
+[I 2021-12-18 14:03:15.926 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-18 14:03:15.946 ServerApp] 302 GET /HNAP1/ (146.179.52.3) 0.43ms
+[I 2021-12-18 14:03:16.298 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:16.317 ServerApp] 404 GET /autodiscover/autodiscover.xml (146.179.52.3) 1.18ms referer=None
+[I 2021-12-18 14:03:16.386 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:16.406 ServerApp] 404 GET /G7h5muym.ashx (146.179.52.3) 1.17ms referer=None
+[W 2021-12-18 14:03:16.425 ServerApp] 404 GET /ZsMS_YOC.aspx (146.179.52.3) 1.11ms referer=None
+[W 2021-12-18 14:03:16.444 ServerApp] 404 GET /kTa00nkG.asmx (146.179.52.3) 1.12ms referer=None
+[W 2021-12-18 14:03:16.476 ServerApp] 404 GET /qTee0uPL.rem (146.179.52.3) 1.36ms referer=None
+[W 2021-12-18 14:03:16.496 ServerApp] 404 GET /hHqrRavQ.soap (146.179.52.3) 1.19ms referer=None
+[I 2021-12-18 14:03:16.648 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:16.666 ServerApp] 404 GET /tH7Hdzeb.aspx (146.179.52.3) 1.17ms referer=None
+[I 2021-12-18 14:03:16.732 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-18 14:03:16.814 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:16.834 ServerApp] 404 GET /vsmc.html (146.179.52.3) 1.17ms referer=None
+[I 2021-12-18 14:03:16.904 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:16.923 ServerApp] 404 GET /lang_pack/EN.js (146.179.52.3) 1.70ms referer=None
+[I 2021-12-18 14:03:17.008 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:17.027 ServerApp] 404 GET /app/ui/login.jsp (146.179.52.3) 1.22ms referer=None
+[I 2021-12-18 14:03:17.089 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:17.108 ServerApp] 404 GET /ui/faces/Login.xhtml (146.179.52.3) 1.20ms referer=None
+[W 2021-12-18 14:03:17.127 ServerApp] 404 GET /index.html (146.179.52.3) 1.13ms referer=None
+[I 2021-12-18 14:03:17.212 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-18 14:03:17.224 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-18 14:03:17.245 ServerApp] 404 GET /system.xml (146.179.52.3) 1.26ms referer=None
+[I 2021-12-18 14:03:17.306 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-18 14:03:17.318 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-18 14:03:17.327 ServerApp] 404 GET /getxml (146.179.52.3) 1.25ms referer=None
+[I 2021-12-18 14:03:17.340 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2021-12-18 14:03:17.360 LabApp] 302 GET /lab (146.179.52.3) 0.57ms
+[I 2021-12-18 14:03:17.391 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-18 14:03:17.484 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-18 14:03:17.506 ServerApp] 404 GET /cwhp/CSMSDesktop/about.jsp (146.179.52.3) 1.26ms referer=None
+[I 2021-12-18 14:03:17.507 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-18 14:03:17.529 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:17.532 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.24ms referer=None
+[I 2021-12-18 14:03:17.606 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-18 14:03:17.629 ServerApp] 404 GET /about.jsp (146.179.52.3) 1.22ms referer=None
+[I 2021-12-18 14:03:17.660 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:17.682 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.26ms referer=None
+[I 2021-12-18 14:03:17.695 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-18 14:03:17.716 ServerApp] 404 GET /login.html (146.179.52.3) 1.24ms referer=None
+[I 2021-12-18 14:03:17.747 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-18 14:03:17.855 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[I 2021-12-18 14:03:17.877 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[I 2021-12-18 14:03:17.885 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-18 14:03:17.906 ServerApp] 404 GET /csamc52/webadmin?page=invalid&type=browser (146.179.52.3) 1.35ms referer=None
+[I 2021-12-18 14:03:17.959 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-18 14:03:17.979 ServerApp] 404 GET /login.html (146.179.52.3) 1.21ms referer=None
+[I 2021-12-18 14:03:17.985 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:18.004 ServerApp] 404 GET /+CSCOE+/logon.html (146.179.52.3) 1.23ms referer=None
+[I 2021-12-18 14:03:18.066 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2021-12-18 14:03:18.088 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2021-12-18 14:03:18.095 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:18.115 ServerApp] 404 GET /nls/ApplicationProperties-en.json (146.179.52.3) 1.31ms referer=None
+[I 2021-12-18 14:03:18.151 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:18.172 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?ver (146.179.52.3) 1.19ms referer=None
+[I 2021-12-18 14:03:18.186 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-18 14:03:18.198 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?Init+0 (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:18.204 ServerApp] 404 GET /+CSCOT+/translation-table?type=mst&textdomain=%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ (146.179.52.3) 1.28ms referer=None
+[W 2021-12-18 14:03:18.222 ServerApp] 404 GET /+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua (146.179.52.3) 1.28ms referer=None
+[I 2021-12-18 14:03:18.261 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[I 2021-12-18 14:03:18.309 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-18 14:03:18.311 ServerApp] 404 GET /this_page_should_not_exist.htm (146.179.52.3) 1.19ms referer=None
+[W 2021-12-18 14:03:18.328 ServerApp] 404 GET /server-info (146.179.52.3) 1.22ms referer=None
+[I 2021-12-18 14:03:19.170 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-18 14:03:19.188 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-18 14:03:19.212 ServerApp] 302 GET / (146.179.52.3) 0.49ms
+[W 2021-12-18 14:03:19.296 ServerApp] 404 GET /xsql/demo/airport/airport.xsql?xml-stylesheet=none (146.179.52.3) 1.27ms referer=None
+[I 2021-12-18 14:03:19.342 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-18 14:03:19.362 ServerApp] 404 GET /cwhp/XmpFileDownloadServlet?parameterName=downloadDoc&downloadDirectory=..\..\..\Windows\System32\drivers\etc\&readmeText=1 (146.179.52.3) 1.23ms referer=None
+[I 2021-12-18 14:03:19.422 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-18 14:03:19.441 ServerApp] 302 GET /dev/ (146.179.52.3) 0.41ms
+[W 2021-12-18 14:03:56.104 ServerApp] SSL Error on 12 ('146.179.52.3', 59200): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-18 14:03:57.128 ServerApp] SSL Error on 12 ('146.179.52.3', 59254): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-18 14:03:58.170 ServerApp] SSL Error on 12 ('146.179.52.3', 59332): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[W 2021-12-18 14:03:58.180 ServerApp] SSL Error on 12 ('146.179.52.3', 59338): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[I 2021-12-18 14:04:10.617 ServerApp] 302 GET / (146.179.52.3) 0.55ms
+[I 2021-12-18 14:04:10.617 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[W 2021-12-18 14:04:10.663 ServerApp] 404 GET /axis2/services/CUPMService/ping (146.179.52.3) 12.47ms referer=None
+[W 2021-12-18 14:04:10.665 ServerApp] 404 GET /emsam/index.html (146.179.52.3) 1.18ms referer=None
+[W 2021-12-18 14:04:10.725 ServerApp] 404 GET /dfcweb/lib/cupm/nls/applicationproperties.js (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:01:17.767 ServerApp] SSL Error on 12 ('146.179.52.3', 17112): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-25 14:01:49.946 ServerApp] 302 GET / (146.179.52.3) 1.12ms
+[W 2021-12-25 14:02:51.084 ServerApp] SSL Error on 12 ('146.179.52.3', 21708): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2021-12-25 14:02:55.033 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[W 2021-12-25 14:02:55.053 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-25 14:02:55.066 ServerApp] 403 POST /sdk (146.179.52.3) 13.69ms referer=None
+[I 2021-12-25 14:02:55.166 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-25 14:02:55.190 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2021-12-25 14:02:55.191 ServerApp] 403 POST /sdk (146.179.52.3) 1.59ms referer=None
+[I 2021-12-25 14:03:01.219 ServerApp] 302 GET / (146.179.52.3) 0.53ms
+[I 2021-12-25 14:03:01.258 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[W 2021-12-25 14:03:01.280 ServerApp] 404 GET /properties/description.dhtml (146.179.52.3) 2.25ms referer=None
+[W 2021-12-25 14:03:01.301 ServerApp] 404 GET /properties/configuration.php?tab=Status (146.179.52.3) 1.23ms referer=None
+[W 2021-12-25 14:03:01.331 ServerApp] 404 GET /header.php?tab=status (146.179.52.3) 1.12ms referer=None
+[I 2021-12-25 14:03:01.480 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-25 14:03:01.491 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-25 14:03:01.497 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[I 2021-12-25 14:03:01.509 ServerApp] 302 GET / (146.179.52.3) 0.48ms
+[I 2021-12-25 14:03:01.534 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2021-12-25 14:03:01.559 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[I 2021-12-25 14:03:01.577 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2021-12-25 14:03:01.612 ServerApp] 404 GET /login.php (146.179.52.3) 1.28ms referer=None
+[W 2021-12-25 14:03:01.645 ServerApp] 404 GET /this_server/all_settings.shtml (146.179.52.3) 1.21ms referer=None
+[I 2021-12-25 14:03:01.675 ServerApp] 302 GET / (146.179.52.3) 0.48ms
+[I 2021-12-25 14:03:01.690 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2021-12-25 14:03:01.697 LabApp] 302 GET /lab (146.179.52.3) 0.68ms
+[W 2021-12-25 14:03:01.723 ServerApp] 404 GET /login.html (146.179.52.3) 1.29ms referer=None
+[W 2021-12-25 14:03:01.728 ServerApp] 404 GET /authenticate/login (146.179.52.3) 1.17ms referer=None
+[W 2021-12-25 14:03:01.753 ServerApp] 404 GET /start.js (146.179.52.3) 1.33ms referer=None
+[I 2021-12-25 14:03:01.784 ServerApp] 302 GET /tmui/ (146.179.52.3) 0.46ms
+[I 2021-12-25 14:03:01.811 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-25 14:03:01.833 ServerApp] 404 GET /Home.do (146.179.52.3) 1.24ms referer=None
+[W 2021-12-25 14:03:01.837 ServerApp] 404 GET /netmri/config/userAdmin/login.tdf (146.179.52.3) 1.30ms referer=None
+[W 2021-12-25 14:03:01.859 ServerApp] 404 GET /scgi-bin/platform.cgi (146.179.52.3) 1.16ms referer=None
+[W 2021-12-25 14:03:01.898 ServerApp] 404 GET /admin/login.do (146.179.52.3) 1.15ms referer=None
+[I 2021-12-25 14:03:01.904 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-25 14:03:01.925 ServerApp] 404 GET /en/main.js (146.179.52.3) 1.12ms referer=None
+[W 2021-12-25 14:03:01.930 ServerApp] 404 GET http://rfi.nessus.org/check_proxy.html (146.179.52.3) 1.16ms referer=None
+[W 2021-12-25 14:03:01.946 ServerApp] 404 GET /mgmt/login?dest=%2Fmgmt%2Fgui%3Fp%3Dhome&reason=&username= (146.179.52.3) 1.22ms referer=None
+[W 2021-12-25 14:03:01.980 ServerApp] 404 GET /dms2/Login.jsp (146.179.52.3) 1.11ms referer=None
+[I 2021-12-25 14:03:01.986 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[I 2021-12-25 14:03:02.017 ServerApp] 302 GET // (146.179.52.3) 0.42ms
+[W 2021-12-25 14:03:02.035 ServerApp] 404 GET /home.htm (146.179.52.3) 1.20ms referer=None
+[W 2021-12-25 14:03:02.055 ServerApp] 404 GET /sws/data/sws_data.js (146.179.52.3) 1.15ms referer=None
+[W 2021-12-25 14:03:02.077 ServerApp] 404 GET /wcd/system.xml (146.179.52.3) 1.16ms referer=None
+[W 2021-12-25 14:03:02.078 ServerApp] 404 GET /intruvert/jsp/admin/Login.jsp (146.179.52.3) 1.13ms referer=None
+[W 2021-12-25 14:03:02.097 ServerApp] 404 GET /js/Device.js (146.179.52.3) 1.19ms referer=None
+[W 2021-12-25 14:03:02.121 ServerApp] 404 GET /commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:03:02.122 ServerApp] 404 GET /ptz.htm (146.179.52.3) 1.19ms referer=None
+[W 2021-12-25 14:03:02.142 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.20ms referer=None
+[I 2021-12-25 14:03:02.163 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-25 14:03:02.166 ServerApp] 404 GET /loginMsg.js (146.179.52.3) 1.13ms referer=None
+[W 2021-12-25 14:03:02.183 ServerApp] 404 GET /xmldata?item=All (146.179.52.3) 1.24ms referer=None
+[W 2021-12-25 14:03:02.216 ServerApp] 404 GET /upnp/BasicDevice.xml (146.179.52.3) 1.12ms referer=None
+[I 2021-12-25 14:03:02.236 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[I 2021-12-25 14:03:02.329 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-25 14:03:02.351 ServerApp] 404 GET /robots.txt (146.179.52.3) 2.47ms referer=None
+[W 2021-12-25 14:03:02.376 ServerApp] 404 GET /sitemap.xml (146.179.52.3) 1.22ms referer=None
+[W 2021-12-25 14:03:02.395 ServerApp] 404 GET /.cobalt (146.179.52.3) 1.18ms referer=None
+[W 2021-12-25 14:03:02.413 ServerApp] 404 GET /admin.back (146.179.52.3) 1.26ms referer=None
+[W 2021-12-25 14:03:02.605 ServerApp] 404 GET /file (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:03:02.626 ServerApp] 404 GET /wavemaster.internal (146.179.52.3) 1.20ms referer=None
+[I 2021-12-25 14:03:02.645 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2021-12-25 14:03:02.665 ServerApp] 405 CTZHYG / (146.179.52.3) 0.50ms referer=None
+[I 2021-12-25 14:03:02.892 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-25 14:03:02.912 ServerApp] 404 GET /MSWSMTP/Common/Authentication/Logon.aspx (146.179.52.3) 1.27ms referer=None
+[I 2021-12-25 14:03:02.917 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[I 2021-12-25 14:03:02.939 LabApp] 302 GET /lab (146.179.52.3) 0.55ms
+[W 2021-12-25 14:03:05.273 ServerApp] 404 GET /dIxQHq3ajbXP.html (146.179.52.3) 1.19ms referer=None
+[W 2021-12-25 14:03:05.567 ServerApp] 404 GET /dIxQHq3ajbXP.cgi (146.179.52.3) 1.43ms referer=None
+[W 2021-12-25 14:03:05.598 ServerApp] 404 GET /dIxQHq3ajbXP.sh (146.179.52.3) 1.30ms referer=None
+[W 2021-12-25 14:03:05.618 ServerApp] 404 GET /dIxQHq3ajbXP.pl (146.179.52.3) 1.28ms referer=None
+[W 2021-12-25 14:03:05.637 ServerApp] 404 GET /dIxQHq3ajbXP.inc (146.179.52.3) 1.20ms referer=None
+[W 2021-12-25 14:03:05.681 ServerApp] 404 GET /dIxQHq3ajbXP.shtml (146.179.52.3) 1.37ms referer=None
+[W 2021-12-25 14:03:05.707 ServerApp] 404 GET /dIxQHq3ajbXP.asp (146.179.52.3) 1.38ms referer=None
+[W 2021-12-25 14:03:05.726 ServerApp] 404 GET /dIxQHq3ajbXP.php (146.179.52.3) 1.33ms referer=None
+[W 2021-12-25 14:03:05.745 ServerApp] 404 GET /dIxQHq3ajbXP.php3 (146.179.52.3) 1.20ms referer=None
+[W 2021-12-25 14:03:05.766 ServerApp] 404 GET /dIxQHq3ajbXP.cfm (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:03:05.787 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.html (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:03:05.815 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.cgi (146.179.52.3) 1.18ms referer=None
+[W 2021-12-25 14:03:05.835 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.sh (146.179.52.3) 1.24ms referer=None
+[W 2021-12-25 14:03:05.855 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.pl (146.179.52.3) 1.23ms referer=None
+[W 2021-12-25 14:03:05.883 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.inc (146.179.52.3) 1.22ms referer=None
+[W 2021-12-25 14:03:05.904 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.shtml (146.179.52.3) 1.23ms referer=None
+[W 2021-12-25 14:03:05.924 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.asp (146.179.52.3) 1.23ms referer=None
+[W 2021-12-25 14:03:05.956 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.php (146.179.52.3) 1.18ms referer=None
+[W 2021-12-25 14:03:05.975 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.php3 (146.179.52.3) 1.22ms referer=None
+[W 2021-12-25 14:03:05.995 ServerApp] 404 GET /cgi-bin/dIxQHq3ajbXP.cfm (146.179.52.3) 1.25ms referer=None
+[W 2021-12-25 14:03:06.013 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.html (146.179.52.3) 1.19ms referer=None
+[W 2021-12-25 14:03:06.033 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.cgi (146.179.52.3) 1.18ms referer=None
+[W 2021-12-25 14:03:06.053 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.sh (146.179.52.3) 1.20ms referer=None
+[W 2021-12-25 14:03:06.073 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.pl (146.179.52.3) 1.18ms referer=None
+[W 2021-12-25 14:03:06.093 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.inc (146.179.52.3) 1.17ms referer=None
+[W 2021-12-25 14:03:06.112 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.shtml (146.179.52.3) 1.23ms referer=None
+[W 2021-12-25 14:03:06.132 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.asp (146.179.52.3) 1.24ms referer=None
+[W 2021-12-25 14:03:06.152 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.php (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:03:06.171 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.php3 (146.179.52.3) 1.26ms referer=None
+[W 2021-12-25 14:03:06.191 ServerApp] 404 GET /scripts/dIxQHq3ajbXP.cfm (146.179.52.3) 1.24ms referer=None
+[I 2021-12-25 14:03:06.840 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-25 14:03:06.859 ServerApp] 404 GET /PAN_help/en/wwhelp/wwhimpl/common/private/title.js (146.179.52.3) 1.30ms referer=None
+[W 2021-12-25 14:03:06.932 ServerApp] 404 GET /login.htm (146.179.52.3) 1.23ms referer=None
+[I 2021-12-25 14:03:06.976 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-25 14:03:06.995 ServerApp] 404 GET /qsoap.qap (146.179.52.3) 1.23ms referer=None
+[I 2021-12-25 14:03:07.057 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2021-12-25 14:03:07.074 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[I 2021-12-25 14:03:07.140 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:07.160 ServerApp] 404 GET /home.seam (146.179.52.3) 1.22ms referer=None
+[I 2021-12-25 14:03:07.222 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-25 14:03:07.241 ServerApp] 404 GET /igsponsor (146.179.52.3) 1.32ms referer=None
+[I 2021-12-25 14:03:07.300 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:07.319 ServerApp] 404 GET /ibmmq/console/login.html (146.179.52.3) 1.17ms referer=None
+[W 2021-12-25 14:03:07.339 ServerApp] 404 GET /ibmmq/console/nls/en/strings.json (146.179.52.3) 1.17ms referer=None
+[I 2021-12-25 14:03:07.427 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:07.445 ServerApp] 302 GET /HNAP1/ (146.179.52.3) 0.49ms
+[I 2021-12-25 14:03:08.704 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2021-12-25 14:03:08.736 ServerApp] 404 GET /autodiscover/autodiscover.xml (146.179.52.3) 1.22ms referer=None
+[I 2021-12-25 14:03:08.798 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:08.816 ServerApp] 404 GET /03jnIWsa.ashx (146.179.52.3) 1.19ms referer=None
+[W 2021-12-25 14:03:08.835 ServerApp] 404 GET /SPdExVpU.aspx (146.179.52.3) 1.12ms referer=None
+[W 2021-12-25 14:03:08.853 ServerApp] 404 GET /PXoMRJfe.asmx (146.179.52.3) 1.16ms referer=None
+[W 2021-12-25 14:03:08.884 ServerApp] 404 GET /WuBUanBw.rem (146.179.52.3) 1.12ms referer=None
+[W 2021-12-25 14:03:08.904 ServerApp] 404 GET /0FUycLHv.soap (146.179.52.3) 1.13ms referer=None
+[I 2021-12-25 14:03:09.049 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-25 14:03:09.068 ServerApp] 404 GET /sMzGAHug.aspx (146.179.52.3) 1.23ms referer=None
+[I 2021-12-25 14:03:09.128 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:09.246 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-25 14:03:09.265 ServerApp] 404 GET /vsmc.html (146.179.52.3) 1.19ms referer=None
+[I 2021-12-25 14:03:09.323 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-25 14:03:09.343 ServerApp] 404 GET /app/ui/login.jsp (146.179.52.3) 1.24ms referer=None
+[I 2021-12-25 14:03:09.400 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-25 14:03:09.420 ServerApp] 404 GET /ui/faces/Login.xhtml (146.179.52.3) 1.21ms referer=None
+[W 2021-12-25 14:03:09.439 ServerApp] 404 GET /index.html (146.179.52.3) 1.12ms referer=None
+[I 2021-12-25 14:03:09.518 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:09.594 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:09.614 ServerApp] 404 GET /system.xml (146.179.52.3) 1.20ms referer=None
+[I 2021-12-25 14:03:09.674 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-25 14:03:09.693 ServerApp] 404 GET /getxml (146.179.52.3) 1.18ms referer=None
+[I 2021-12-25 14:03:09.750 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:09.841 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[I 2021-12-25 14:03:09.859 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-25 14:03:09.895 LabApp] 302 GET /lab (146.179.52.3) 0.55ms
+[I 2021-12-25 14:03:10.024 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-25 14:03:10.043 ServerApp] 404 GET /cwhp/CSMSDesktop/about.jsp (146.179.52.3) 1.22ms referer=None
+[W 2021-12-25 14:03:10.063 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.15ms referer=None
+[I 2021-12-25 14:03:10.141 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:10.160 ServerApp] 404 GET /lang_pack/EN.js (146.179.52.3) 1.68ms referer=None
+[I 2021-12-25 14:03:10.217 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2021-12-25 14:03:10.236 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.23ms referer=None
+[I 2021-12-25 14:03:10.292 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:10.303 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:10.310 ServerApp] 404 GET /about.jsp (146.179.52.3) 1.27ms referer=None
+[W 2021-12-25 14:03:10.323 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.25ms referer=None
+[I 2021-12-25 14:03:10.370 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[I 2021-12-25 14:03:10.389 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2021-12-25 14:03:10.391 ServerApp] 404 GET /login.html (146.179.52.3) 1.26ms referer=None
+[I 2021-12-25 14:03:10.463 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2021-12-25 14:03:10.484 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2021-12-25 14:03:10.488 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-25 14:03:10.507 ServerApp] 404 GET /csamc52/webadmin?page=invalid&type=browser (146.179.52.3) 1.20ms referer=None
+[I 2021-12-25 14:03:10.546 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2021-12-25 14:03:10.567 ServerApp] 404 GET /login.html (146.179.52.3) 1.22ms referer=None
+[I 2021-12-25 14:03:10.568 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-25 14:03:10.589 ServerApp] 404 GET /+CSCOE+/logon.html (146.179.52.3) 1.26ms referer=None
+[I 2021-12-25 14:03:10.632 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2021-12-25 14:03:10.661 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2021-12-25 14:03:10.676 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:10.697 ServerApp] 404 GET /nls/ApplicationProperties-en.json (146.179.52.3) 1.27ms referer=None
+[I 2021-12-25 14:03:10.718 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-25 14:03:10.736 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?ver (146.179.52.3) 1.28ms referer=None
+[I 2021-12-25 14:03:10.764 ServerApp] 302 GET / (146.179.52.3) 0.34ms
+[W 2021-12-25 14:03:10.771 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?Init+0 (146.179.52.3) 1.27ms referer=None
+[W 2021-12-25 14:03:10.784 ServerApp] 404 GET /+CSCOT+/translation-table?type=mst&textdomain=%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ (146.179.52.3) 1.36ms referer=None
+[W 2021-12-25 14:03:10.825 ServerApp] 404 GET /+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua (146.179.52.3) 1.21ms referer=None
+[I 2021-12-25 14:03:10.862 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2021-12-25 14:03:10.919 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2021-12-25 14:03:10.930 ServerApp] 404 GET /this_page_should_not_exist.htm (146.179.52.3) 1.20ms referer=None
+[W 2021-12-25 14:03:10.936 ServerApp] 404 GET /server-info (146.179.52.3) 1.22ms referer=None
+[I 2021-12-25 14:03:11.315 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:11.333 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[I 2021-12-25 14:03:11.362 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2021-12-25 14:03:11.440 ServerApp] 404 GET /xsql/demo/airport/airport.xsql?xml-stylesheet=none (146.179.52.3) 1.22ms referer=None
+[I 2021-12-25 14:03:11.481 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2021-12-25 14:03:11.501 ServerApp] 404 GET /cwhp/XmpFileDownloadServlet?parameterName=downloadDoc&downloadDirectory=..\..\..\Windows\System32\drivers\etc\&readmeText=1 (146.179.52.3) 1.25ms referer=None
+[I 2021-12-25 14:03:11.566 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2021-12-25 14:03:11.584 ServerApp] 302 GET /dev/ (146.179.52.3) 0.43ms
+[W 2021-12-25 14:03:55.057 ServerApp] SSL Error on 12 ('146.179.52.3', 29272): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-25 14:03:56.081 ServerApp] SSL Error on 12 ('146.179.52.3', 29317): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2021-12-25 14:03:57.096 ServerApp] SSL Error on 12 ('146.179.52.3', 29333): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[W 2021-12-25 14:03:58.120 ServerApp] SSL Error on 12 ('146.179.52.3', 29351): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[I 2021-12-25 14:04:13.313 ServerApp] 302 GET / (146.179.52.3) 0.49ms
+[I 2021-12-25 14:04:13.316 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2021-12-25 14:04:13.359 ServerApp] 404 GET /axis2/services/CUPMService/ping (146.179.52.3) 13.19ms referer=None
+[W 2021-12-25 14:04:13.360 ServerApp] 404 GET /emsam/index.html (146.179.52.3) 1.19ms referer=None
+[W 2021-12-25 14:04:13.435 ServerApp] 404 GET /dfcweb/lib/cupm/nls/applicationproperties.js (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:01:48.392 ServerApp] SSL Error on 12 ('146.179.52.3', 47331): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2022-01-01 14:02:15.648 ServerApp] 302 GET / (146.179.52.3) 1.15ms
+[W 2022-01-01 14:03:16.132 ServerApp] SSL Error on 12 ('146.179.52.3', 52387): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2022-01-01 14:03:20.054 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:20.079 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2022-01-01 14:03:20.090 ServerApp] 403 POST /sdk (146.179.52.3) 11.82ms referer=None
+[I 2022-01-01 14:03:20.180 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2022-01-01 14:03:20.209 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2022-01-01 14:03:20.210 ServerApp] 403 POST /sdk (146.179.52.3) 1.65ms referer=None
+[I 2022-01-01 14:03:26.277 ServerApp] 302 GET / (146.179.52.3) 0.56ms
+[I 2022-01-01 14:03:26.316 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-01 14:03:26.335 ServerApp] 404 GET /properties/description.dhtml (146.179.52.3) 2.36ms referer=None
+[W 2022-01-01 14:03:26.354 ServerApp] 404 GET /properties/configuration.php?tab=Status (146.179.52.3) 1.19ms referer=None
+[W 2022-01-01 14:03:26.372 ServerApp] 404 GET /header.php?tab=status (146.179.52.3) 1.13ms referer=None
+[I 2022-01-01 14:03:26.469 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2022-01-01 14:03:26.486 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-01 14:03:26.545 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:26.566 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[I 2022-01-01 14:03:26.579 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2022-01-01 14:03:26.586 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-01 14:03:26.599 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2022-01-01 14:03:26.623 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[W 2022-01-01 14:03:26.644 ServerApp] 404 GET /login.php (146.179.52.3) 1.28ms referer=None
+[W 2022-01-01 14:03:26.664 ServerApp] 404 GET /this_server/all_settings.shtml (146.179.52.3) 1.17ms referer=None
+[I 2022-01-01 14:03:26.685 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[I 2022-01-01 14:03:26.707 LabApp] 302 GET /lab (146.179.52.3) 0.70ms
+[I 2022-01-01 14:03:26.721 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2022-01-01 14:03:26.728 ServerApp] 404 GET /authenticate/login (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:26.753 ServerApp] 404 GET /login.html (146.179.52.3) 1.24ms referer=None
+[W 2022-01-01 14:03:26.760 ServerApp] 404 GET /start.js (146.179.52.3) 1.19ms referer=None
+[I 2022-01-01 14:03:26.779 ServerApp] 302 GET /tmui/ (146.179.52.3) 0.44ms
+[I 2022-01-01 14:03:26.825 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-01 14:03:26.827 ServerApp] 404 GET /netmri/config/userAdmin/login.tdf (146.179.52.3) 1.20ms referer=None
+[W 2022-01-01 14:03:26.850 ServerApp] 404 GET /Home.do (146.179.52.3) 1.23ms referer=None
+[W 2022-01-01 14:03:26.852 ServerApp] 404 GET /scgi-bin/platform.cgi (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:26.872 ServerApp] 404 GET /admin/login.do (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:26.892 ServerApp] 404 GET /en/main.js (146.179.52.3) 1.21ms referer=None
+[I 2022-01-01 14:03:26.915 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2022-01-01 14:03:26.917 ServerApp] 404 GET /mgmt/login?dest=%2Fmgmt%2Fgui%3Fp%3Dhome&reason=&username= (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:26.937 ServerApp] 404 GET http://rfi.nessus.org/check_proxy.html (146.179.52.3) 1.24ms referer=None
+[W 2022-01-01 14:03:26.939 ServerApp] 404 GET /dms2/Login.jsp (146.179.52.3) 1.20ms referer=None
+[I 2022-01-01 14:03:27.008 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:27.010 ServerApp] 404 GET /home.htm (146.179.52.3) 1.13ms referer=None
+[I 2022-01-01 14:03:27.029 ServerApp] 302 GET // (146.179.52.3) 0.47ms
+[W 2022-01-01 14:03:27.033 ServerApp] 404 GET /sws/data/sws_data.js (146.179.52.3) 1.25ms referer=None
+[W 2022-01-01 14:03:27.066 ServerApp] 404 GET /wcd/system.xml (146.179.52.3) 1.25ms referer=None
+[W 2022-01-01 14:03:27.089 ServerApp] 404 GET /js/Device.js (146.179.52.3) 1.20ms referer=None
+[W 2022-01-01 14:03:27.107 ServerApp] 404 GET /intruvert/jsp/admin/Login.jsp (146.179.52.3) 1.27ms referer=None
+[W 2022-01-01 14:03:27.111 ServerApp] 404 GET /ptz.htm (146.179.52.3) 1.21ms referer=None
+[W 2022-01-01 14:03:27.133 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:27.156 ServerApp] 404 GET /commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm (146.179.52.3) 1.21ms referer=None
+[W 2022-01-01 14:03:27.158 ServerApp] 404 GET /loginMsg.js (146.179.52.3) 1.15ms referer=None
+[I 2022-01-01 14:03:27.202 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:27.222 ServerApp] 404 GET /xmldata?item=All (146.179.52.3) 1.34ms referer=None
+[W 2022-01-01 14:03:27.244 ServerApp] 404 GET /upnp/BasicDevice.xml (146.179.52.3) 1.19ms referer=None
+[I 2022-01-01 14:03:27.270 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-01 14:03:27.350 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-01 14:03:27.378 ServerApp] 404 GET /robots.txt (146.179.52.3) 2.46ms referer=None
+[W 2022-01-01 14:03:27.398 ServerApp] 404 GET /sitemap.xml (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:27.424 ServerApp] 404 GET /.cobalt (146.179.52.3) 1.23ms referer=None
+[W 2022-01-01 14:03:27.445 ServerApp] 404 GET /admin.back (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:27.466 ServerApp] 404 GET /file (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:27.485 ServerApp] 404 GET /wavemaster.internal (146.179.52.3) 1.20ms referer=None
+[I 2022-01-01 14:03:27.505 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2022-01-01 14:03:27.530 ServerApp] 405 YXTDJY / (146.179.52.3) 0.51ms referer=None
+[I 2022-01-01 14:03:27.641 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-01 14:03:27.659 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[I 2022-01-01 14:03:27.681 LabApp] 302 GET /lab (146.179.52.3) 0.52ms
+[W 2022-01-01 14:03:27.735 ServerApp] 404 GET /MSWSMTP/Common/Authentication/Logon.aspx (146.179.52.3) 1.20ms referer=None
+[W 2022-01-01 14:03:30.127 ServerApp] 404 GET /uZmL3Ds8S1ud.html (146.179.52.3) 1.26ms referer=None
+[W 2022-01-01 14:03:30.149 ServerApp] 404 GET /uZmL3Ds8S1ud.cgi (146.179.52.3) 1.37ms referer=None
+[W 2022-01-01 14:03:30.167 ServerApp] 404 GET /uZmL3Ds8S1ud.sh (146.179.52.3) 1.23ms referer=None
+[W 2022-01-01 14:03:30.186 ServerApp] 404 GET /uZmL3Ds8S1ud.pl (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:30.205 ServerApp] 404 GET /uZmL3Ds8S1ud.inc (146.179.52.3) 1.23ms referer=None
+[W 2022-01-01 14:03:30.224 ServerApp] 404 GET /uZmL3Ds8S1ud.shtml (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:30.252 ServerApp] 404 GET /uZmL3Ds8S1ud.asp (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:30.271 ServerApp] 404 GET /uZmL3Ds8S1ud.php (146.179.52.3) 1.21ms referer=None
+[W 2022-01-01 14:03:30.290 ServerApp] 404 GET /uZmL3Ds8S1ud.php3 (146.179.52.3) 1.27ms referer=None
+[W 2022-01-01 14:03:30.308 ServerApp] 404 GET /uZmL3Ds8S1ud.cfm (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:30.327 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.html (146.179.52.3) 1.21ms referer=None
+[W 2022-01-01 14:03:30.347 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.cgi (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.377 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.sh (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:30.405 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.pl (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.423 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.inc (146.179.52.3) 1.25ms referer=None
+[W 2022-01-01 14:03:30.443 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.shtml (146.179.52.3) 1.16ms referer=None
+[W 2022-01-01 14:03:30.463 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.asp (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.486 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.php (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.506 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.php3 (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.525 ServerApp] 404 GET /cgi-bin/uZmL3Ds8S1ud.cfm (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.544 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.html (146.179.52.3) 1.19ms referer=None
+[W 2022-01-01 14:03:30.563 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.cgi (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:30.583 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.sh (146.179.52.3) 1.21ms referer=None
+[W 2022-01-01 14:03:30.609 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.pl (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:30.628 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.inc (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.654 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.shtml (146.179.52.3) 1.19ms referer=None
+[W 2022-01-01 14:03:30.684 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.asp (146.179.52.3) 1.17ms referer=None
+[W 2022-01-01 14:03:30.705 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.php (146.179.52.3) 1.28ms referer=None
+[W 2022-01-01 14:03:30.724 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.php3 (146.179.52.3) 1.20ms referer=None
+[W 2022-01-01 14:03:30.752 ServerApp] 404 GET /scripts/uZmL3Ds8S1ud.cfm (146.179.52.3) 1.17ms referer=None
+[I 2022-01-01 14:03:31.482 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:31.501 ServerApp] 404 GET /PAN_help/en/wwhelp/wwhimpl/common/private/title.js (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:31.564 ServerApp] 404 GET /login.htm (146.179.52.3) 1.16ms referer=None
+[I 2022-01-01 14:03:31.618 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:31.637 ServerApp] 404 GET /qsoap.qap (146.179.52.3) 1.16ms referer=None
+[I 2022-01-01 14:03:31.719 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-01 14:03:31.740 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[I 2022-01-01 14:03:31.805 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:31.845 ServerApp] 404 GET /igsponsor (146.179.52.3) 1.20ms referer=None
+[I 2022-01-01 14:03:31.911 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2022-01-01 14:03:31.954 ServerApp] 404 GET /home.seam (146.179.52.3) 1.33ms referer=None
+[I 2022-01-01 14:03:32.031 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[W 2022-01-01 14:03:32.062 ServerApp] 404 GET /ibmmq/console/login.html (146.179.52.3) 1.42ms referer=None
+[W 2022-01-01 14:03:32.083 ServerApp] 404 GET /ibmmq/console/nls/en/strings.json (146.179.52.3) 1.34ms referer=None
+[I 2022-01-01 14:03:32.175 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[I 2022-01-01 14:03:32.194 ServerApp] 302 GET /HNAP1/ (146.179.52.3) 0.50ms
+[I 2022-01-01 14:03:33.448 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2022-01-01 14:03:33.467 ServerApp] 404 GET /autodiscover/autodiscover.xml (146.179.52.3) 1.17ms referer=None
+[I 2022-01-01 14:03:33.526 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-01 14:03:33.545 ServerApp] 404 GET /Gu0cMCr5.ashx (146.179.52.3) 1.94ms referer=None
+[W 2022-01-01 14:03:33.564 ServerApp] 404 GET /3RmmnHL0.aspx (146.179.52.3) 1.18ms referer=None
+[W 2022-01-01 14:03:33.584 ServerApp] 404 GET /gX5ds_Sn.asmx (146.179.52.3) 1.12ms referer=None
+[W 2022-01-01 14:03:33.620 ServerApp] 404 GET /SOgSEn6Q.rem (146.179.52.3) 1.16ms referer=None
+[W 2022-01-01 14:03:33.639 ServerApp] 404 GET /OogXQIWI.soap (146.179.52.3) 1.23ms referer=None
+[I 2022-01-01 14:03:33.800 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:33.853 ServerApp] 404 GET /2cDZzenH.aspx (146.179.52.3) 1.38ms referer=None
+[I 2022-01-01 14:03:33.917 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:34.018 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2022-01-01 14:03:34.046 ServerApp] 404 GET /vsmc.html (146.179.52.3) 1.23ms referer=None
+[I 2022-01-01 14:03:34.112 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:34.131 ServerApp] 404 GET /app/ui/login.jsp (146.179.52.3) 1.25ms referer=None
+[I 2022-01-01 14:03:34.239 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[W 2022-01-01 14:03:34.259 ServerApp] 404 GET /ui/faces/Login.xhtml (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:34.297 ServerApp] 404 GET /index.html (146.179.52.3) 1.16ms referer=None
+[I 2022-01-01 14:03:34.386 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-01 14:03:34.464 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:34.482 ServerApp] 404 GET /system.xml (146.179.52.3) 1.23ms referer=None
+[I 2022-01-01 14:03:34.545 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:34.564 ServerApp] 404 GET /getxml (146.179.52.3) 1.22ms referer=None
+[I 2022-01-01 14:03:34.628 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:34.646 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-01 14:03:34.664 LabApp] 302 GET /lab (146.179.52.3) 0.54ms
+[I 2022-01-01 14:03:34.781 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:34.863 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2022-01-01 14:03:34.881 ServerApp] 404 GET /cwhp/CSMSDesktop/about.jsp (146.179.52.3) 1.22ms referer=None
+[W 2022-01-01 14:03:34.900 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.18ms referer=None
+[I 2022-01-01 14:03:34.992 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2022-01-01 14:03:35.011 ServerApp] 404 GET /lang_pack/EN.js (146.179.52.3) 1.18ms referer=None
+[I 2022-01-01 14:03:35.077 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:35.095 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.24ms referer=None
+[I 2022-01-01 14:03:35.158 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:35.179 ServerApp] 404 GET /about.jsp (146.179.52.3) 1.25ms referer=None
+[I 2022-01-01 14:03:35.184 ServerApp] 302 GET / (146.179.52.3) 0.42ms
+[W 2022-01-01 14:03:35.202 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.24ms referer=None
+[I 2022-01-01 14:03:35.240 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-01 14:03:35.261 ServerApp] 404 GET /login.html (146.179.52.3) 1.23ms referer=None
+[I 2022-01-01 14:03:35.266 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:35.314 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-01 14:03:35.326 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:35.340 ServerApp] 302 GET / (146.179.52.3) 0.49ms
+[I 2022-01-01 14:03:35.345 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-01 14:03:35.348 ServerApp] 404 GET /csamc52/webadmin?page=invalid&type=browser (146.179.52.3) 1.31ms referer=None
+[W 2022-01-01 14:03:35.362 ServerApp] 404 GET /login.html (146.179.52.3) 1.29ms referer=None
+[I 2022-01-01 14:03:35.409 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-01 14:03:35.425 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-01 14:03:35.437 ServerApp] 404 GET /+CSCOE+/logon.html (146.179.52.3) 3.61ms referer=None
+[I 2022-01-01 14:03:35.441 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2022-01-01 14:03:35.443 ServerApp] 302 GET / (146.179.52.3) 0.45ms
+[W 2022-01-01 14:03:35.459 ServerApp] 404 GET /nls/ApplicationProperties-en.json (146.179.52.3) 1.25ms referer=None
+[I 2022-01-01 14:03:35.502 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:35.520 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-01 14:03:35.524 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?ver (146.179.52.3) 1.26ms referer=None
+[I 2022-01-01 14:03:35.525 ServerApp] 302 GET / (146.179.52.3) 0.49ms
+[W 2022-01-01 14:03:35.540 ServerApp] 404 GET /+CSCOT+/translation-table?type=mst&textdomain=%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ (146.179.52.3) 1.38ms referer=None
+[W 2022-01-01 14:03:35.545 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?Init+0 (146.179.52.3) 1.23ms referer=None
+[W 2022-01-01 14:03:35.559 ServerApp] 404 GET /+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua (146.179.52.3) 1.28ms referer=None
+[I 2022-01-01 14:03:35.563 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2022-01-01 14:03:35.585 ServerApp] 404 GET /server-info (146.179.52.3) 1.26ms referer=None
+[W 2022-01-01 14:03:35.619 ServerApp] 404 GET /this_page_should_not_exist.htm (146.179.52.3) 1.26ms referer=None
+[I 2022-01-01 14:03:36.811 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2022-01-01 14:03:36.829 ServerApp] 302 GET / (146.179.52.3) 0.53ms
+[I 2022-01-01 14:03:36.849 ServerApp] 302 GET / (146.179.52.3) 0.48ms
+[W 2022-01-01 14:03:36.918 ServerApp] 404 GET /xsql/demo/airport/airport.xsql?xml-stylesheet=none (146.179.52.3) 1.28ms referer=None
+[I 2022-01-01 14:03:36.976 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-01 14:03:36.989 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-01 14:03:37.004 ServerApp] 404 GET /cwhp/XmpFileDownloadServlet?parameterName=downloadDoc&downloadDirectory=..\..\..\Windows\System32\drivers\etc\&readmeText=1 (146.179.52.3) 1.24ms referer=None
+[I 2022-01-01 14:03:37.010 ServerApp] 302 GET /dev/ (146.179.52.3) 0.48ms
+[W 2022-01-01 14:04:20.078 ServerApp] SSL Error on 12 ('146.179.52.3', 59862): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2022-01-01 14:04:21.103 ServerApp] SSL Error on 12 ('146.179.52.3', 59950): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2022-01-01 14:04:22.136 ServerApp] SSL Error on 12 ('146.179.52.3', 60001): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[W 2022-01-01 14:04:23.167 ServerApp] SSL Error on 12 ('146.179.52.3', 60032): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[I 2022-01-01 14:04:38.522 ServerApp] 302 GET / (146.179.52.3) 0.49ms
+[I 2022-01-01 14:04:38.525 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2022-01-01 14:04:38.568 ServerApp] 404 GET /axis2/services/CUPMService/ping (146.179.52.3) 12.74ms referer=None
+[W 2022-01-01 14:04:38.569 ServerApp] 404 GET /emsam/index.html (146.179.52.3) 1.20ms referer=None
+[W 2022-01-01 14:04:38.656 ServerApp] 404 GET /dfcweb/lib/cupm/nls/applicationproperties.js (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:01:10.270 ServerApp] SSL Error on 12 ('146.179.52.3', 50007): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2022-01-08 14:01:43.123 ServerApp] 302 GET / (146.179.52.3) 182.30ms
+[W 2022-01-08 14:02:42.067 ServerApp] SSL Error on 12 ('146.179.52.3', 55370): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)
+[I 2022-01-08 14:02:46.123 ServerApp] 302 GET / (146.179.52.3) 0.61ms
+[W 2022-01-08 14:02:46.235 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2022-01-08 14:02:46.501 ServerApp] 403 POST /sdk (146.179.52.3) 309.32ms referer=None
+[I 2022-01-08 14:02:46.844 ServerApp] 302 GET / (146.179.52.3) 0.53ms
+[W 2022-01-08 14:02:46.884 ServerApp] 403 POST /sdk (146.179.52.3): '_xsrf' argument missing from POST
+[W 2022-01-08 14:02:46.886 ServerApp] 403 POST /sdk (146.179.52.3) 2.76ms referer=None
+[I 2022-01-08 14:02:53.221 ServerApp] 302 GET / (146.179.52.3) 0.79ms
+[I 2022-01-08 14:02:53.272 ServerApp] 302 GET / (146.179.52.3) 0.60ms
+[W 2022-01-08 14:02:53.319 ServerApp] 404 GET /properties/description.dhtml (146.179.52.3) 9.22ms referer=None
+[W 2022-01-08 14:02:53.339 ServerApp] 404 GET /properties/configuration.php?tab=Status (146.179.52.3) 1.87ms referer=None
+[W 2022-01-08 14:02:53.361 ServerApp] 404 GET /header.php?tab=status (146.179.52.3) 2.17ms referer=None
+[I 2022-01-08 14:02:53.480 ServerApp] 302 GET / (146.179.52.3) 0.66ms
+[I 2022-01-08 14:02:53.519 ServerApp] 302 GET / (146.179.52.3) 0.67ms
+[I 2022-01-08 14:02:53.521 ServerApp] 302 GET / (146.179.52.3) 0.51ms
+[I 2022-01-08 14:02:53.543 ServerApp] 302 GET / (146.179.52.3) 0.58ms
+[I 2022-01-08 14:02:53.561 ServerApp] 302 GET / (146.179.52.3) 0.62ms
+[I 2022-01-08 14:02:53.619 ServerApp] 302 GET / (146.179.52.3) 0.64ms
+[I 2022-01-08 14:02:53.645 ServerApp] 302 GET / (146.179.52.3) 0.68ms
+[I 2022-01-08 14:02:53.652 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:02:53.686 ServerApp] 404 GET /login.php (146.179.52.3) 5.42ms referer=None
+[I 2022-01-08 14:02:53.690 ServerApp] 302 GET / (146.179.52.3) 0.50ms
+[W 2022-01-08 14:02:53.706 ServerApp] 404 GET /this_server/all_settings.shtml (146.179.52.3) 1.44ms referer=None
+[I 2022-01-08 14:02:53.724 ServerApp] 302 GET / (146.179.52.3) 0.54ms
+[I 2022-01-08 14:02:53.763 LabApp] 302 GET /lab (146.179.52.3) 19.37ms
+[I 2022-01-08 14:02:53.782 ServerApp] 302 GET / (146.179.52.3) 0.43ms
+[W 2022-01-08 14:02:53.784 ServerApp] 404 GET /authenticate/login (146.179.52.3) 1.39ms referer=None
+[W 2022-01-08 14:02:53.809 ServerApp] 404 GET /login.html (146.179.52.3) 1.23ms referer=None
+[W 2022-01-08 14:02:53.811 ServerApp] 404 GET /start.js (146.179.52.3) 1.20ms referer=None
+[I 2022-01-08 14:02:53.867 ServerApp] 302 GET /tmui/ (146.179.52.3) 5.90ms
+[I 2022-01-08 14:02:53.949 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[W 2022-01-08 14:02:53.967 ServerApp] 404 GET /netmri/config/userAdmin/login.tdf (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:53.970 ServerApp] 404 GET /Home.do (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:53.985 ServerApp] 404 GET /scgi-bin/platform.cgi (146.179.52.3) 1.20ms referer=None
+[W 2022-01-08 14:02:54.005 ServerApp] 404 GET /admin/login.do (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:02:54.025 ServerApp] 404 GET /en/main.js (146.179.52.3) 1.22ms referer=None
+[I 2022-01-08 14:02:54.062 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:02:54.075 ServerApp] 404 GET /mgmt/login?dest=%2Fmgmt%2Fgui%3Fp%3Dhome&reason=&username= (146.179.52.3) 12.25ms referer=None
+[W 2022-01-08 14:02:54.101 ServerApp] 404 GET http://rfi.nessus.org/check_proxy.html (146.179.52.3) 1.26ms referer=None
+[W 2022-01-08 14:02:54.113 ServerApp] 404 GET /dms2/Login.jsp (146.179.52.3) 1.20ms referer=None
+[W 2022-01-08 14:02:54.160 ServerApp] 404 GET /home.htm (146.179.52.3) 1.17ms referer=None
+[I 2022-01-08 14:02:54.165 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:02:54.179 ServerApp] 404 GET /sws/data/sws_data.js (146.179.52.3) 1.23ms referer=None
+[I 2022-01-08 14:02:54.184 ServerApp] 302 GET // (146.179.52.3) 0.45ms
+[W 2022-01-08 14:02:54.206 ServerApp] 404 GET /wcd/system.xml (146.179.52.3) 1.27ms referer=None
+[W 2022-01-08 14:02:54.225 ServerApp] 404 GET /js/Device.js (146.179.52.3) 1.22ms referer=None
+[W 2022-01-08 14:02:54.246 ServerApp] 404 GET /ptz.htm (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:54.249 ServerApp] 404 GET /intruvert/jsp/admin/Login.jsp (146.179.52.3) 1.22ms referer=None
+[W 2022-01-08 14:02:54.267 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.74ms referer=None
+[W 2022-01-08 14:02:54.293 ServerApp] 404 GET /loginMsg.js (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:02:54.300 ServerApp] 404 GET /commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm (146.179.52.3) 1.30ms referer=None
+[I 2022-01-08 14:02:54.340 ServerApp] 302 GET / (146.179.52.3) 0.53ms
+[W 2022-01-08 14:02:54.361 ServerApp] 404 GET /xmldata?item=All (146.179.52.3) 1.27ms referer=None
+[W 2022-01-08 14:02:54.380 ServerApp] 404 GET /upnp/BasicDevice.xml (146.179.52.3) 1.20ms referer=None
+[I 2022-01-08 14:02:54.398 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-08 14:02:54.519 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-08 14:02:54.756 ServerApp] 404 GET /robots.txt (146.179.52.3) 218.51ms referer=None
+[W 2022-01-08 14:02:54.782 ServerApp] 404 GET /sitemap.xml (146.179.52.3) 1.29ms referer=None
+[I 2022-01-08 14:02:54.800 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:02:54.804 ServerApp] 404 GET /.cobalt (146.179.52.3) 1.24ms referer=None
+[I 2022-01-08 14:02:54.826 ServerApp] 302 GET / (146.179.52.3) 0.48ms
+[W 2022-01-08 14:02:54.833 ServerApp] 404 GET /admin.back (146.179.52.3) 1.75ms referer=None
+[I 2022-01-08 14:02:54.848 LabApp] 302 GET /lab (146.179.52.3) 0.79ms
+[W 2022-01-08 14:02:54.856 ServerApp] 404 GET /file (146.179.52.3) 1.73ms referer=None
+[W 2022-01-08 14:02:54.883 ServerApp] 404 GET /wavemaster.internal (146.179.52.3) 1.24ms referer=None
+[I 2022-01-08 14:02:54.908 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[W 2022-01-08 14:02:54.929 ServerApp] 405 BMUYJN / (146.179.52.3) 3.99ms referer=None
+[W 2022-01-08 14:02:56.370 ServerApp] 404 GET /MSWSMTP/Common/Authentication/Logon.aspx (146.179.52.3) 2.59ms referer=None
+[W 2022-01-08 14:02:57.656 ServerApp] 404 GET /9zrCl970tE9C.html (146.179.52.3) 1.93ms referer=None
+[W 2022-01-08 14:02:57.684 ServerApp] 404 GET /9zrCl970tE9C.cgi (146.179.52.3) 1.73ms referer=None
+[W 2022-01-08 14:02:57.739 ServerApp] 404 GET /9zrCl970tE9C.sh (146.179.52.3) 1.90ms referer=None
+[W 2022-01-08 14:02:57.761 ServerApp] 404 GET /9zrCl970tE9C.pl (146.179.52.3) 1.43ms referer=None
+[W 2022-01-08 14:02:57.785 ServerApp] 404 GET /9zrCl970tE9C.inc (146.179.52.3) 2.01ms referer=None
+[W 2022-01-08 14:02:57.805 ServerApp] 404 GET /9zrCl970tE9C.shtml (146.179.52.3) 1.32ms referer=None
+[W 2022-01-08 14:02:57.866 ServerApp] 404 GET /9zrCl970tE9C.asp (146.179.52.3) 1.93ms referer=None
+[W 2022-01-08 14:02:57.888 ServerApp] 404 GET /9zrCl970tE9C.php (146.179.52.3) 1.23ms referer=None
+[W 2022-01-08 14:02:57.907 ServerApp] 404 GET /9zrCl970tE9C.php3 (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:57.927 ServerApp] 404 GET /9zrCl970tE9C.cfm (146.179.52.3) 1.23ms referer=None
+[W 2022-01-08 14:02:57.947 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.html (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:57.976 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.cgi (146.179.52.3) 1.76ms referer=None
+[W 2022-01-08 14:02:57.998 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.sh (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:02:58.016 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.pl (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:58.038 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.inc (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:02:58.056 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.shtml (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:02:58.110 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.asp (146.179.52.3) 1.23ms referer=None
+[W 2022-01-08 14:02:58.134 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.php (146.179.52.3) 1.22ms referer=None
+[W 2022-01-08 14:02:58.153 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.php3 (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:58.214 ServerApp] 404 GET /cgi-bin/9zrCl970tE9C.cfm (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:58.247 ServerApp] 404 GET /scripts/9zrCl970tE9C.html (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:58.282 ServerApp] 404 GET /scripts/9zrCl970tE9C.cgi (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:58.306 ServerApp] 404 GET /scripts/9zrCl970tE9C.sh (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:58.325 ServerApp] 404 GET /scripts/9zrCl970tE9C.pl (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:02:58.350 ServerApp] 404 GET /scripts/9zrCl970tE9C.inc (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:58.369 ServerApp] 404 GET /scripts/9zrCl970tE9C.shtml (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:02:58.406 ServerApp] 404 GET /scripts/9zrCl970tE9C.asp (146.179.52.3) 1.22ms referer=None
+[W 2022-01-08 14:02:58.427 ServerApp] 404 GET /scripts/9zrCl970tE9C.php (146.179.52.3) 1.23ms referer=None
+[W 2022-01-08 14:02:58.448 ServerApp] 404 GET /scripts/9zrCl970tE9C.php3 (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:02:58.479 ServerApp] 404 GET /scripts/9zrCl970tE9C.cfm (146.179.52.3) 1.20ms referer=None
+[I 2022-01-08 14:02:59.520 ServerApp] 302 GET / (146.179.52.3) 0.61ms
+[W 2022-01-08 14:02:59.546 ServerApp] 404 GET /PAN_help/en/wwhelp/wwhimpl/common/private/title.js (146.179.52.3) 3.35ms referer=None
+[W 2022-01-08 14:02:59.626 ServerApp] 404 GET /login.htm (146.179.52.3) 1.22ms referer=None
+[I 2022-01-08 14:02:59.754 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2022-01-08 14:02:59.775 ServerApp] 404 GET /qsoap.qap (146.179.52.3) 1.26ms referer=None
+[I 2022-01-08 14:02:59.957 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2022-01-08 14:02:59.980 ServerApp] 302 GET / (146.179.52.3) 0.47ms
+[I 2022-01-08 14:03:00.174 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:03:00.205 ServerApp] 404 GET /home.seam (146.179.52.3) 1.42ms referer=None
+[I 2022-01-08 14:03:00.378 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:03:00.412 ServerApp] 404 GET /igsponsor (146.179.52.3) 1.23ms referer=None
+[I 2022-01-08 14:03:00.529 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-08 14:03:00.551 ServerApp] 404 GET /ibmmq/console/login.html (146.179.52.3) 1.22ms referer=None
+[W 2022-01-08 14:03:00.572 ServerApp] 404 GET /ibmmq/console/nls/en/strings.json (146.179.52.3) 1.75ms referer=None
+[I 2022-01-08 14:03:00.651 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2022-01-08 14:03:00.669 ServerApp] 302 GET /HNAP1/ (146.179.52.3) 0.47ms
+[I 2022-01-08 14:03:02.036 ServerApp] 302 GET / (146.179.52.3) 0.58ms
+[W 2022-01-08 14:03:02.055 ServerApp] 404 GET /autodiscover/autodiscover.xml (146.179.52.3) 1.60ms referer=None
+[I 2022-01-08 14:03:02.126 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2022-01-08 14:03:02.131 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:03:02.146 ServerApp] 404 GET /rym9EzKe.ashx (146.179.52.3) 1.27ms referer=None
+[W 2022-01-08 14:03:02.166 ServerApp] 404 GET /8rB3EpgE.aspx (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:03:02.184 ServerApp] 404 GET /xUZsbcfN.asmx (146.179.52.3) 1.20ms referer=None
+[W 2022-01-08 14:03:02.205 ServerApp] 404 GET /lEG1b93M.rem (146.179.52.3) 1.20ms referer=None
+[I 2022-01-08 14:03:02.207 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-08 14:03:02.225 ServerApp] 404 GET /ZgucxRlC.soap (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:03:02.228 ServerApp] 404 GET /vsmc.html (146.179.52.3) 1.25ms referer=None
+[I 2022-01-08 14:03:02.309 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:03:02.329 ServerApp] 404 GET /app/ui/login.jsp (146.179.52.3) 1.27ms referer=None
+[I 2022-01-08 14:03:02.403 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[I 2022-01-08 14:03:02.405 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:03:02.426 ServerApp] 404 GET /6CZX76HW.aspx (146.179.52.3) 2.14ms referer=None
+[W 2022-01-08 14:03:02.427 ServerApp] 404 GET /ui/faces/Login.xhtml (146.179.52.3) 1.21ms referer=None
+[W 2022-01-08 14:03:02.461 ServerApp] 404 GET /index.html (146.179.52.3) 1.21ms referer=None
+[I 2022-01-08 14:03:02.502 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2022-01-08 14:03:02.546 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[W 2022-01-08 14:03:02.571 ServerApp] 404 GET /system.xml (146.179.52.3) 1.27ms referer=None
+[I 2022-01-08 14:03:02.589 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:03:02.608 ServerApp] 404 GET /getxml (146.179.52.3) 1.28ms referer=None
+[I 2022-01-08 14:03:02.656 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-08 14:03:02.668 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-08 14:03:02.674 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-08 14:03:02.702 LabApp] 302 GET /lab (146.179.52.3) 0.59ms
+[I 2022-01-08 14:03:02.750 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-08 14:03:02.768 ServerApp] 404 GET /cwhp/CSMSDesktop/about.jsp (146.179.52.3) 1.32ms referer=None
+[W 2022-01-08 14:03:02.788 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.79ms referer=None
+[I 2022-01-08 14:03:02.843 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[W 2022-01-08 14:03:02.865 ServerApp] 404 GET /lang_pack/EN.js (146.179.52.3) 1.27ms referer=None
+[I 2022-01-08 14:03:02.867 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-08 14:03:02.895 ServerApp] 404 GET /CSCOnm/servlet/login/login.jsp (146.179.52.3) 1.25ms referer=None
+[I 2022-01-08 14:03:02.965 ServerApp] 302 GET / (146.179.52.3) 0.40ms
+[I 2022-01-08 14:03:02.968 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:03:03.000 ServerApp] 404 GET /about.jsp (146.179.52.3) 1.25ms referer=None
+[W 2022-01-08 14:03:03.001 ServerApp] 404 GET /admin/login.jsp (146.179.52.3) 1.25ms referer=None
+[I 2022-01-08 14:03:03.078 ServerApp] 302 GET / (146.179.52.3) 0.41ms
+[I 2022-01-08 14:03:03.081 ServerApp] 302 GET / (146.179.52.3) 0.36ms
+[W 2022-01-08 14:03:03.115 ServerApp] 404 GET /login.html (146.179.52.3) 2.24ms referer=None
+[I 2022-01-08 14:03:03.202 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2022-01-08 14:03:03.206 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-08 14:03:03.223 ServerApp] 302 GET / (146.179.52.3) 0.46ms
+[W 2022-01-08 14:03:03.226 ServerApp] 404 GET /csamc52/webadmin?page=invalid&type=browser (146.179.52.3) 1.31ms referer=None
+[I 2022-01-08 14:03:03.287 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[I 2022-01-08 14:03:03.290 ServerApp] 302 GET / (146.179.52.3) 0.35ms
+[W 2022-01-08 14:03:03.308 ServerApp] 404 GET /login.html (146.179.52.3) 1.88ms referer=None
+[W 2022-01-08 14:03:03.311 ServerApp] 404 GET /+CSCOE+/logon.html (146.179.52.3) 1.85ms referer=None
+[I 2022-01-08 14:03:03.402 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[I 2022-01-08 14:03:03.433 ServerApp] 302 GET / (146.179.52.3) 0.39ms
+[I 2022-01-08 14:03:03.442 ServerApp] 302 GET / (146.179.52.3) 2.99ms
+[W 2022-01-08 14:03:03.461 ServerApp] 404 GET /nls/ApplicationProperties-en.json (146.179.52.3) 1.31ms referer=None
+[I 2022-01-08 14:03:03.555 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[I 2022-01-08 14:03:03.571 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:03:03.576 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?ver (146.179.52.3) 1.32ms referer=None
+[W 2022-01-08 14:03:03.604 ServerApp] 404 GET /+CSCOT+/translation-table?type=mst&textdomain=%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ (146.179.52.3) 5.33ms referer=None
+[W 2022-01-08 14:03:03.606 ServerApp] 404 GET /securecgi-bin/CSUserCGI.exe?Init+0 (146.179.52.3) 1.20ms referer=None
+[W 2022-01-08 14:03:03.623 ServerApp] 404 GET /+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua (146.179.52.3) 1.22ms referer=None
+[I 2022-01-08 14:03:03.698 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[I 2022-01-08 14:03:03.735 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:03:03.754 ServerApp] 404 GET /this_page_should_not_exist.htm (146.179.52.3) 1.24ms referer=None
+[W 2022-01-08 14:03:03.756 ServerApp] 404 GET /server-info (146.179.52.3) 1.21ms referer=None
+[I 2022-01-08 14:03:04.987 ServerApp] 302 GET / (146.179.52.3) 0.57ms
+[I 2022-01-08 14:03:05.004 ServerApp] 302 GET / (146.179.52.3) 0.49ms
+[I 2022-01-08 14:03:05.023 ServerApp] 302 GET / (146.179.52.3) 0.44ms
+[W 2022-01-08 14:03:05.114 ServerApp] 404 GET /xsql/demo/airport/airport.xsql?xml-stylesheet=none (146.179.52.3) 1.77ms referer=None
+[I 2022-01-08 14:03:05.118 ServerApp] 302 GET / (146.179.52.3) 0.38ms
+[W 2022-01-08 14:03:05.138 ServerApp] 404 GET /cwhp/XmpFileDownloadServlet?parameterName=downloadDoc&downloadDirectory=..\..\..\Windows\System32\drivers\etc\&readmeText=1 (146.179.52.3) 1.66ms referer=None
+[I 2022-01-08 14:03:05.186 ServerApp] 302 GET / (146.179.52.3) 0.78ms
+[I 2022-01-08 14:03:05.204 ServerApp] 302 GET /dev/ (146.179.52.3) 0.60ms
+[W 2022-01-08 14:03:46.109 ServerApp] SSL Error on 12 ('146.179.52.3', 63526): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2022-01-08 14:03:47.134 ServerApp] SSL Error on 12 ('146.179.52.3', 63563): [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:1129)
+[W 2022-01-08 14:03:48.259 ServerApp] SSL Error on 12 ('146.179.52.3', 63580): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[W 2022-01-08 14:03:49.285 ServerApp] SSL Error on 12 ('146.179.52.3', 63610): [SSL: VERSION_TOO_LOW] version too low (_ssl.c:1129)
+[I 2022-01-08 14:04:04.407 ServerApp] 302 GET / (146.179.52.3) 0.65ms
+[I 2022-01-08 14:04:04.408 ServerApp] 302 GET / (146.179.52.3) 0.37ms
+[W 2022-01-08 14:04:04.470 ServerApp] 404 GET /emsam/index.html (146.179.52.3) 12.00ms referer=None
+[W 2022-01-08 14:04:04.472 ServerApp] 404 GET /axis2/services/CUPMService/ping (146.179.52.3) 1.49ms referer=None
+[W 2022-01-08 14:04:04.573 ServerApp] 404 GET /dfcweb/lib/cupm/nls/applicationproperties.js (146.179.52.3) 2.74ms referer=None
+[C 2022-01-14 08:34:38.426 ServerApp] received signal 15, stopping
+[I 2022-01-14 08:34:41.960 ServerApp] Shutting down 2 extensions
+[I 2022-01-14 08:34:42.674 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[I 2022-01-14 08:34:43.350 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[I 2022-01-14 08:34:44.479 ServerApp] Shutting down 3 kernels
+[I 2022-01-14 08:34:46.854 ServerApp] Kernel shutdown: 59e85ed4-8066-4618-bcaf-d835ec1e30a7
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/__init__.py", line 2, in <module>
+    from .connect import *
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/__init__.py", line 6, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/channels.py", line 4, in <module>
+    import asyncio
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/__init__.py", line 8, in <module>
+[I 2022-01-14 08:34:47.102 ServerApp] Kernel shutdown: 4fedd38d-3ab4-417e-84a4-bf9253085c8b
+    from .base_events import *
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/base_events.py", line 34, in <module>
+    import ssl
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/ssl.py", line 98, in <module>
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/__init__.py", line 2, in <module>
+    from .connect import *
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/connect.py", line 11, in <module>
+    import jupyter_client
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/__init__.py", line 6, in <module>
+    from .asynchronous import AsyncKernelClient  # noqa
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/asynchronous/__init__.py", line 1, in <module>
+    from .client import AsyncKernelClient  # noqa
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/asynchronous/client.py", line 6, in <module>
+    from jupyter_client.channels import HBChannel
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyter_client/channels.py", line 4, in <module>
+    import asyncio
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/base_events.py", line 40, in <module>
+    from . import events
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/events.py", line 786, in <module>
+    from _asyncio import (_get_running_loop, _set_running_loop,
+  File "<frozen importlib._bootstrap>", line 203, in _lock_unlock_module
+KeyboardInterrupt
+    import _ssl             # if we can't import it, let the error propagate
+KeyboardInterrupt
+[I 2022-01-14 08:34:47.173 ServerApp] Kernel shutdown: e035bf32-5b05-4c8e-960d-b99f0aa89587
+[I 2022-01-14 08:34:47.253 ServerApp] Shutting down 0 terminals

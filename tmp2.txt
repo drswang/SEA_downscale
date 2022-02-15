@@ -1,0 +1,787 @@
+nohup: ignoring input
+[I 2021-11-30 01:27:57.895 ServerApp] jupyterlab | extension was successfully linked.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'certfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'keyfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'keyfile' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-30 01:27:57.906 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-11-30 01:27:59.396 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-11-30 01:27:59.618 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-11-30 01:27:59.619 LabApp] JupyterLab extension loaded from /home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/jupyterlab
+[I 2021-11-30 01:27:59.619 LabApp] JupyterLab application directory is /home/sw1013/anaconda3/envs/downscale/share/jupyter/lab
+[I 2021-11-30 01:27:59.626 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-11-30 01:27:59.628 ServerApp] Serving notebooks from local directory: /net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples
+[I 2021-11-30 01:27:59.628 ServerApp] Jupyter Server 1.11.1 is running at:
+[I 2021-11-30 01:27:59.628 ServerApp] https://wrfstore6-10.sp.ph.ic.ac.uk:10001/lab?token=46a4ee24a7305cb47d599705a133828664204e3c2cec0ef5
+[I 2021-11-30 01:27:59.628 ServerApp]  or https://127.0.0.1:10001/lab?token=46a4ee24a7305cb47d599705a133828664204e3c2cec0ef5
+[I 2021-11-30 01:27:59.628 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-11-30 01:28:07.937 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/sw1013/.local/share/jupyter/runtime/jpserver-26304-open.html
+    Or copy and paste one of these URLs:
+        https://wrfstore6-10.sp.ph.ic.ac.uk:10001/lab?token=46a4ee24a7305cb47d599705a133828664204e3c2cec0ef5
+     or https://127.0.0.1:10001/lab?token=46a4ee24a7305cb47d599705a133828664204e3c2cec0ef5
+xdg-open: no method available for opening 'file:///home/sw1013/.local/share/jupyter/runtime/jpserver-26304-open.html'
+[W 2021-11-30 01:29:05.972 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-11-30 01:29:31.963 ServerApp] Notebook 20211118_temp_regional-Copy2.ipynb is not trusted
+[I 2021-11-30 01:29:41.189 ServerApp] Kernel started: b152d6b0-8911-404d-b1fd-439a5497218b
+[I 2021-11-30 01:32:00.620 ServerApp] Saving file at /20211118_temp_regional-Copy2.ipynb
+[W 2021-11-30 01:32:00.620 ServerApp] Notebook 20211118_temp_regional-Copy2.ipynb is not trusted
+[I 2021-11-30 01:35:36.128 ServerApp] Saving file at /20211118_temp_regional-Copy2.ipynb
+[W 2021-11-30 01:35:36.129 ServerApp] Notebook 20211118_temp_regional-Copy2.ipynb is not trusted
+[I 2021-11-30 01:51:06.731 ServerApp] Starting buffering for b152d6b0-8911-404d-b1fd-439a5497218b:c5738b24-3a2b-4043-a700-124f0505b69e
+[I 2021-11-30 01:51:18.485 ServerApp] Kernel shutdown: b152d6b0-8911-404d-b1fd-439a5497218b
+[W 2021-11-30 01:52:29.115 ServerApp] 404 DELETE /api/sessions/91519532-ba34-4bb0-853d-d85aac1aff28?1638237149018 (129.31.248.175): Session not found: session_id='91519532-ba34-4bb0-853d-d85aac1aff28'
+[W 2021-11-30 01:52:29.115 ServerApp] Session not found: session_id='91519532-ba34-4bb0-853d-d85aac1aff28'
+[W 2021-11-30 01:52:29.116 ServerApp] 404 DELETE /api/sessions/91519532-ba34-4bb0-853d-d85aac1aff28?1638237149018 (129.31.248.175) 1.08ms referer=https://wrfstore6-10.sp.ph.ic.ac.uk:10001/lab
+[W 2021-11-30 01:52:33.455 ServerApp] Notebook 20211118_precip_regional-Copy1.ipynb is not trusted
+[I 2021-11-30 01:52:36.637 ServerApp] Kernel started: 32509401-79b4-47ba-9fd4-cfc09cb26ebd
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-ey2bgxa6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-ettrcgdj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-p4hr3vsb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-28u8dfvh', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-1kimsfro', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-iw8v6tmn', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-ljfpkhib', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-_tdv2sdq', purging
+xdg-open: no method available for opening 'https://accounts.google.com/o/oauth2/auth?client_id=517222506229-vsmmajv00ul0bs7p89v5m89qs8eb9359.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fearthengine+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.full_control&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&code_challenge=VkU28flJrWQBsehS19vRygAxBo0AlKz5N3RLbSk_wdE&code_challenge_method=S256'
+[I 2021-11-30 01:54:37.565 ServerApp] Saving file at /20211118_precip_regional-Copy1.ipynb
+[W 2021-11-30 01:54:37.565 ServerApp] Notebook 20211118_precip_regional-Copy1.ipynb is not trusted
+[I 2021-11-30 01:56:39.816 ServerApp] Saving file at /20211118_precip_regional-Copy1.ipynb
+[W 2021-11-30 01:56:39.817 ServerApp] Notebook 20211118_precip_regional-Copy1.ipynb is not trusted
+[I 2021-11-30 01:58:41.413 ServerApp] Saving file at /20211118_precip_regional-Copy1.ipynb
+[W 2021-11-30 01:58:41.414 ServerApp] Notebook 20211118_precip_regional-Copy1.ipynb is not trusted
+[I 2021-11-30 02:00:43.490 ServerApp] Saving file at /20211118_precip_regional-Copy1.ipynb
+[W 2021-11-30 02:00:43.490 ServerApp] Notebook 20211118_precip_regional-Copy1.ipynb is not trusted
+[I 2021-11-30 02:12:47.496 ServerApp] Saving file at /20211118_precip_regional-Copy1.ipynb
+[W 2021-11-30 02:12:47.496 ServerApp] Notebook 20211118_precip_regional-Copy1.ipynb is not trusted
+[I 2021-11-30 02:13:00.528 ServerApp] Starting buffering for 32509401-79b4-47ba-9fd4-cfc09cb26ebd:f8c68daa-17bd-42fd-9a99-95ba2b415e93
+[W 2021-11-30 02:18:27.707 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-11-30 02:18:29.342 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[W 2021-11-30 02:18:29.586 ServerApp] Notebook 20211118_temp_regional.ipynb is not trusted
+[W 2021-11-30 02:18:29.848 ServerApp] Notebook 20211118_precip_regional.ipynb is not trusted
+[I 2021-11-30 02:18:31.361 ServerApp] Kernel started: 44c6a268-7747-486f-8de9-876dfa6be1e7
+[I 2021-11-30 02:18:34.723 ServerApp] Kernel started: de105cba-e664-402c-a741-3ba11af79678
+[I 2021-11-30 02:18:36.089 ServerApp] Starting buffering for 44c6a268-7747-486f-8de9-876dfa6be1e7:b93e1213-d32e-4f7f-8e6c-fafe186cbb63
+[I 2021-11-30 02:18:37.541 ServerApp] Kernel started: 233ec000-22b4-4704-abf2-e4ce6f0c6706
+[I 2021-11-30 02:23:12.147 ServerApp] Starting buffering for 233ec000-22b4-4704-abf2-e4ce6f0c6706:1f36c376-50eb-4f41-a174-9449f2b2b306
+[W 2021-11-30 02:33:18.608 ServerApp] Notebook 20211118_wind_regional-Copy2.ipynb is not trusted
+[I 2021-11-30 02:33:22.312 ServerApp] Kernel started: 97ae6ee8-097a-439a-9190-e497e90cdf6d
+xdg-open: no method available for opening 'https://accounts.google.com/o/oauth2/auth?client_id=517222506229-vsmmajv00ul0bs7p89v5m89qs8eb9359.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fearthengine+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.full_control&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&code_challenge=a-f_UxNX76GQIeiMDG2DXGkEZ587cRhq4F_0ZtswhDQ&code_challenge_method=S256'
+[I 2021-11-30 02:35:22.204 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 02:43:49.201 ServerApp] Kernel interrupted: 97ae6ee8-097a-439a-9190-e497e90cdf6d
+[I 2021-11-30 02:43:52.085 ServerApp] Kernel restarted: 97ae6ee8-097a-439a-9190-e497e90cdf6d
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
+    exitcode = _main(fd, parent_sentinel)
+    exitcode = _main(fd, parent_sentinel)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
+    exitcode = _main(fd, parent_sentinel)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
+    exitcode = _main(fd, parent_sentinel)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
+    exitcode = _main(fd, parent_sentinel)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/__init__.py", line 24, in <module>
+    self = reduction.pickle.load(from_parent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/__init__.py", line 24, in <module>
+    self = reduction.pickle.load(from_parent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/__init__.py", line 24, in <module>
+    self = reduction.pickle.load(from_parent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/__init__.py", line 24, in <module>
+    self = reduction.pickle.load(from_parent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/__init__.py", line 24, in <module>
+    self = reduction.pickle.load(from_parent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/__init__.py", line 24, in <module>
+    from .deploy import Adaptive, LocalCluster, SpecCluster, SSHCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/__init__.py", line 5, in <module>
+    from .deploy import Adaptive, LocalCluster, SpecCluster, SSHCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/__init__.py", line 5, in <module>
+    from .deploy import Adaptive, LocalCluster, SpecCluster, SSHCluster
+    from .deploy import Adaptive, LocalCluster, SpecCluster, SSHCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/__init__.py", line 5, in <module>
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/__init__.py", line 5, in <module>
+    from .deploy import Adaptive, LocalCluster, SpecCluster, SSHCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/__init__.py", line 5, in <module>
+    from .deploy import Adaptive, LocalCluster, SpecCluster, SSHCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/__init__.py", line 5, in <module>
+    from .local import LocalCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/local.py", line 13, in <module>
+    from .local import LocalCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/local.py", line 13, in <module>
+    from .local import LocalCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/local.py", line 13, in <module>
+    from .local import LocalCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/local.py", line 13, in <module>
+    from .local import LocalCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/local.py", line 13, in <module>
+    from .local import LocalCluster
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/deploy/local.py", line 13, in <module>
+    from ..scheduler import Scheduler
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+    from ..scheduler import Scheduler
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+    from ..scheduler import Scheduler
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+    from ..scheduler import Scheduler
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+    from ..scheduler import Scheduler
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+    from ..scheduler import Scheduler
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 941, in get_code
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1040, in get_data
+  File "<frozen importlib._bootstrap_external>", line 978, in get_code
+  File "<frozen importlib._bootstrap_external>", line 941, in get_code
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "<frozen importlib._bootstrap_external>", line 647, in _compile_bytecode
+  File "<frozen importlib._bootstrap_external>", line 1040, in get_data
+KeyboardInterrupt
+KeyboardInterrupt
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x7fb4f2d86970>>, <Task finished name='Task-13' coro=<Worker.close() done, defined at /home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/worker.py:1251> exception=CommClosedError('ConnectionPool not running. Status: Status.closed')>)
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/comm/core.py", line 283, in connect
+    comm = await asyncio.wait_for(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/tasks.py", line 468, in wait_for
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 1043, in connect
+    comm = await fut
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/worker.py", line 1275, in close
+    await r.close_gracefully()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 871, in send_recv_from_rpc
+    comm = await self.pool.connect(self.addr)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 1054, in connect
+    raise CommClosedError(
+distributed.comm.core.CommClosedError: ConnectionPool not running. Status: Status.closed
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x7f22096539a0>>, <Task finished name='Task-13' coro=<Worker.close() done, defined at /home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/worker.py:1251> exception=CommClosedError('ConnectionPool not running. Status: Status.closed')>)
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/comm/core.py", line 283, in connect
+    comm = await asyncio.wait_for(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/tasks.py", line 468, in wait_for
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 1043, in connect
+    comm = await fut
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/worker.py", line 1275, in close
+    await r.close_gracefully()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 871, in send_recv_from_rpc
+    comm = await self.pool.connect(self.addr)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 1054, in connect
+    raise CommClosedError(
+distributed.comm.core.CommClosedError: ConnectionPool not running. Status: Status.closed
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x7fd438a6e9a0>>, <Task finished name='Task-12' coro=<Worker.close() done, defined at /home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/worker.py:1251> exception=CommClosedError('ConnectionPool not running. Status: Status.closed')>)
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/comm/core.py", line 283, in connect
+    comm = await asyncio.wait_for(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/asyncio/tasks.py", line 468, in wait_for
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 1043, in connect
+    comm = await fut
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/worker.py", line 1275, in close
+    await r.close_gracefully()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 871, in send_recv_from_rpc
+    comm = await self.pool.connect(self.addr)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/distributed/core.py", line 1054, in connect
+    raise CommClosedError(
+distributed.comm.core.CommClosedError: ConnectionPool not running. Status: Status.closed
+[I 2021-11-30 02:43:54.841 ServerApp] Starting buffering for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 02:43:55.507 ServerApp] Restoring connection for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 02:45:24.719 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+xdg-open: no method available for opening 'https://accounts.google.com/o/oauth2/auth?client_id=517222506229-vsmmajv00ul0bs7p89v5m89qs8eb9359.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fearthengine+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.full_control&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&code_challenge=ZCqN37Z9Ea7Otw0zf2EtvIt54Lijd--F9Ng_87x_dD4&code_challenge_method=S256'
+[I 2021-11-30 03:11:31.231 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:13:33.255 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:15:34.510 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:17:35.740 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:19:36.830 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:19:44.951 ServerApp] Kernel restarted: 97ae6ee8-097a-439a-9190-e497e90cdf6d
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-if6jf7_w' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-if6jf7_w'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-pi13se5x' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-pi13se5x'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-pqtw4x8m' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-pqtw4x8m'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-yf4myy9q' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-yf4myy9q'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-x_ckav3b' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-x_ckav3b'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-95xshph3' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-95xshph3'
+[I 2021-11-30 03:19:48.163 ServerApp] Starting buffering for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 03:19:48.885 ServerApp] Restoring connection for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 03:25:29.483 ServerApp] Kernel restarted: 97ae6ee8-097a-439a-9190-e497e90cdf6d
+[I 2021-11-30 03:25:29.815 ServerApp] Starting buffering for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 03:25:30.057 ServerApp] Restoring connection for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 03:25:39.055 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-hvwk3u6n', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-jyi746wr', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-c33vd54c', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-i46u7_5n', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-hhew9zx9', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-6udnn1l5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-662ltvf3', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-n7kkevcx', purging
+xdg-open: no method available for opening 'https://accounts.google.com/o/oauth2/auth?client_id=517222506229-vsmmajv00ul0bs7p89v5m89qs8eb9359.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fearthengine+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.full_control&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&code_challenge=mfWJrt_NJL5Rt1IwW9H6FqIe3ZK6WI1YoYkz4_ympEQ&code_challenge_method=S256'
+[I 2021-11-30 03:27:40.025 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:29:41.215 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:31:42.463 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:41:45.205 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:43:46.757 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:45:49.434 ServerApp] Saving file at /20211118_wind_regional-Copy2.ipynb
+[I 2021-11-30 03:50:40.200 ServerApp] Starting buffering for 97ae6ee8-097a-439a-9190-e497e90cdf6d:bed2ef20-af52-425f-88a9-236e8c29b8f1
+[I 2021-11-30 03:50:53.009 ServerApp] Kernel shutdown: 44c6a268-7747-486f-8de9-876dfa6be1e7
+[I 2021-11-30 03:50:55.617 ServerApp] Kernel shutdown: 233ec000-22b4-4704-abf2-e4ce6f0c6706
+[I 2021-11-30 03:50:57.313 ServerApp] Kernel shutdown: 97ae6ee8-097a-439a-9190-e497e90cdf6d
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-896jdgqc' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-896jdgqc'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-n7uheano' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-n7uheano'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-st0paz7p' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-st0paz7p'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-v4e7aaap' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-v4e7aaap'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-f31fo5dt' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-f31fo5dt'
+distributed.diskutils - ERROR - Failed to remove '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-b2v8k49e' (failed in <built-in function lstat>): [Errno 2] No such file or directory: '/net/wrfstore7-10/disk1/sw1013/SINGAPORE/scikit-downscale/examples/dask-worker-space/worker-b2v8k49e'
+[W 2021-11-30 03:51:00.492 ServerApp] Notebook 20211118_precip_regional-Copy2.ipynb is not trusted
+[I 2021-11-30 03:51:03.812 ServerApp] Kernel started: 71173991-e25d-4d69-a9be-8ad8f25eaaa2
+xdg-open: no method available for opening 'https://accounts.google.com/o/oauth2/auth?client_id=517222506229-vsmmajv00ul0bs7p89v5m89qs8eb9359.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fearthengine+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdevstorage.full_control&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&code_challenge=Rlj2_jqOrQqhwiBF3_7zwQNTWqOpIdqLfCbbovfkQcc&code_challenge_method=S256'
+[I 2021-11-30 03:53:03.446 ServerApp] Saving file at /20211118_precip_regional-Copy2.ipynb
+[I 2021-11-30 03:55:05.262 ServerApp] Saving file at /20211118_precip_regional-Copy2.ipynb
+[I 2021-11-30 03:57:06.986 ServerApp] Saving file at /20211118_precip_regional-Copy2.ipynb
+[I 2021-11-30 04:05:10.488 ServerApp] Saving file at /20211118_precip_regional-Copy2.ipynb
+[I 2021-11-30 04:07:12.790 ServerApp] Saving file at /20211118_precip_regional-Copy2.ipynb
+[W 2021-11-30 04:11:13.803 ServerApp] 404 GET /api/contents/20211118_precip_regional-Copy2.ipynb?content=0&1638245473706 (129.31.248.175): No such file or directory: 20211118_precip_regional-Copy2.ipynb
+[W 2021-11-30 04:11:13.803 ServerApp] No such file or directory: 20211118_precip_regional-Copy2.ipynb
+[W 2021-11-30 04:11:13.803 ServerApp] 404 GET /api/contents/20211118_precip_regional-Copy2.ipynb?content=0&1638245473706 (129.31.248.175) 2.96ms referer=https://wrfstore6-10.sp.ph.ic.ac.uk:10001/lab/tree/20211118_precip_regional-Copy2.ipynb
+[I 2021-11-30 04:11:14.825 ServerApp] Uploading file to /20211118_precip_regional-Copy2.ipynb
+[I 2021-11-30 06:09:09.328 ServerApp] Starting buffering for 71173991-e25d-4d69-a9be-8ad8f25eaaa2:2c2960a2-b005-4ea9-a13e-a662d7aa9e91
+[W 2021-11-30 06:09:13.059 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:09:16.215 ServerApp] Kernel started: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 06:11:16.288 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:11:16.288 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:13:17.862 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:13:17.864 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:19:20.380 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:19:20.380 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:21:22.364 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:21:22.364 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:25:23.625 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:25:23.625 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:27:26.397 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:27:26.398 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:33:27.658 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:33:27.658 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:43:30.562 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:43:30.562 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:47:33.327 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:47:33.327 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:49:35.605 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:49:35.605 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:51:40.169 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:51:40.169 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:55:42.922 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:55:42.922 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 06:57:44.952 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 06:57:44.952 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:00:20.881 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:00:20.881 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:06:22.484 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:06:22.485 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:07:47.836 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:47.837 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:48.011 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:48.219 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:48.339 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:48.543 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3444, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "/tmp/ipykernel_31092/1026198578.py", line 67, in <module>
+    tmp_var = predicted.quantile(percentile, dim="time")-nowdays.quantile(percentile, dim="time")
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/xarray/core/dataset.py", line 6169, in quantile
+    variables[name] = var.quantile(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/xarray/core/variable.py", line 1994, in quantile
+    result = apply_ufunc(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/xarray/core/computation.py", line 1184, in apply_ufunc
+    return variables_vfunc(*args)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/xarray/core/computation.py", line 742, in apply_variable_ufunc
+    result_data = func(*input_data)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/xarray/core/variable.py", line 1991, in _wrapper
+    return np.moveaxis(_quantile_func(npa, **kwargs), 0, -1)
+  File "<__array_function__ internals>", line 5, in nanquantile
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/nanfunctions.py", line 1362, in nanquantile
+    return _nanquantile_unchecked(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/nanfunctions.py", line 1374, in _nanquantile_unchecked
+    r, k = function_base._ureduce(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/function_base.py", line 3564, in _ureduce
+    r = func(a, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/nanfunctions.py", line 1395, in _nanquantile_ureduce_func
+    result = np.apply_along_axis(_nanquantile_1d, axis, a, q,
+  File "<__array_function__ internals>", line 5, in apply_along_axis
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/shape_base.py", line 402, in apply_along_axis
+    buff[ind] = asanyarray(func1d(inarr_view[ind], *args, **kwargs))
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/nanfunctions.py", line 1418, in _nanquantile_1d
+    return function_base._quantile_unchecked(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/function_base.py", line 3986, in _quantile_unchecked
+    r, k = _ureduce(a, func=_quantile_ureduce_func, q=q, axis=axis, out=out,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/function_base.py", line 3564, in _ureduce
+    r = func(a, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/numpy/lib/function_base.py", line 4036, in _quantile_ureduce_func
+    ap = a.flatten()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2064, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'KeyboardInterrupt' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3364, in run_ast_nodes
+    if (await self.run_code(code, result,  async_=asy)):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3461, in run_code
+    self.showtraceback(running_compiled_code=True)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2066, in showtraceback
+    stb = self.InteractiveTB.structured_traceback(etype,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1367, in structured_traceback
+    return FormattedTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1267, in structured_traceback
+    return VerboseTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1124, in structured_traceback
+    formatted_exception = self.format_exception_as_a_whole(etype, evalue, etb, number_of_lines_of_context,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
+    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
+    return len(records), 0
+TypeError: object of type 'NoneType' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2064, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'TypeError' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2947, in _run_cell
+    return runner(coro)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/async_helpers.py", line 68, in _pseudo_sync_runner
+    coro.send(None)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3172, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3383, in run_ast_nodes
+    self.showtraceback()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2066, in showtraceback
+    stb = self.InteractiveTB.structured_traceback(etype,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1367, in structured_traceback
+    return FormattedTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1267, in structured_traceback
+    return VerboseTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1142, in structured_traceback
+    formatted_exceptions += self.format_exception_as_a_whole(etype, evalue, etb, lines_of_context,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
+    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
+    return len(records), 0
+TypeError: object of type 'NoneType' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2064, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'TypeError' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2901, in run_cell
+    result = self._run_cell(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2952, in _run_cell
+    self.showtraceback(running_compiled_code=True)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2066, in showtraceback
+    stb = self.InteractiveTB.structured_traceback(etype,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1367, in structured_traceback
+    return FormattedTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1267, in structured_traceback
+    return VerboseTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1142, in structured_traceback
+    formatted_exceptions += self.format_exception_as_a_whole(etype, evalue, etb, lines_of_context,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
+    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
+    return len(records), 0
+TypeError: object of type 'NoneType' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/events.py", line 89, in trigger
+    func(*args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/pyplot.py", line 139, in post_execute
+    draw_all()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/_pylab_helpers.py", line 137, in draw_all
+    manager.canvas.draw_idle()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/backend_bases.py", line 2055, in draw_idle
+    self.draw(*args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/backends/backend_agg.py", line 406, in draw
+    self.figure.draw(self.renderer)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 74, in draw_wrapper
+    result = draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 51, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/figure.py", line 2790, in draw
+    mimage._draw_list_compositing_images(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 51, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/_api/deprecation.py", line 431, in wrapper
+    return func(*inner_args, **inner_kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/axes/_base.py", line 2921, in draw
+    mimage._draw_list_compositing_images(renderer, self, artists)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 51, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/collections.py", line 410, in draw
+    renderer.draw_path_collection(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/backends/backend_agg.py", line 174, in draw_path_collection
+    return self._renderer.draw_path_collection(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/path.py", line 199, in vertices
+    @property
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2064, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'KeyboardInterrupt' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/kernelbase.py", line 353, in dispatch_shell
+    await result
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/kernelbase.py", line 648, in execute_request
+    reply_content = await reply_content
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/ipkernel.py", line 353, in do_execute
+    res = shell.run_cell(code, store_history=store_history, silent=silent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/zmqshell.py", line 533, in run_cell
+    return super(ZMQInteractiveShell, self).run_cell(*args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2904, in run_cell
+    self.events.trigger('post_execute')
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/events.py", line 92, in trigger
+    self.shell.showtraceback()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2066, in showtraceback
+    stb = self.InteractiveTB.structured_traceback(etype,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1367, in structured_traceback
+    return FormattedTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1267, in structured_traceback
+    return VerboseTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1142, in structured_traceback
+    formatted_exceptions += self.format_exception_as_a_whole(etype, evalue, etb, lines_of_context,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
+    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
+    return len(records), 0
+TypeError: object of type 'NoneType' has no len()
+[I 2021-11-30 07:07:48.880 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:48.887 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:49.064 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:49.267 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:49.363 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:07:49.580 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:08:33.469 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:08:33.470 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:10:43.187 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:10:43.188 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:12:34.386 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:34.578 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:34.766 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:35.138 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:35.139 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:35.438 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:35.439 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:35.598 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:35.774 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:12:44.036 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:12:44.037 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:14:45.346 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:14:45.347 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:18:46.832 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:18:46.833 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:20:48.615 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:20:48.616 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:22:50.266 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:22:50.266 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:24:51.734 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:24:51.735 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:26:53.274 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:26:53.274 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:30:47.944 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:48.169 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:48.338 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:48.514 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:48.811 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:48.858 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:49.038 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:49.203 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:49.378 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:49.570 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:30:55.185 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:30:55.185 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:32:56.093 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:32:56.094 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:34:48.648 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:48.938 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:49.048 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:49.208 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:49.404 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:49.584 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:49.980 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:49.981 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/events.py", line 89, in trigger
+    func(*args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/pyplot.py", line 139, in post_execute
+    draw_all()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/_pylab_helpers.py", line 137, in draw_all
+    manager.canvas.draw_idle()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/backend_bases.py", line 2055, in draw_idle
+    self.draw(*args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/backends/backend_agg.py", line 406, in draw
+    self.figure.draw(self.renderer)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 74, in draw_wrapper
+    result = draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 51, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/figure.py", line 2790, in draw
+    mimage._draw_list_compositing_images(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 51, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/_api/deprecation.py", line 431, in wrapper
+    return func(*inner_args, **inner_kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/axes/_base.py", line 2921, in draw
+    mimage._draw_list_compositing_images(renderer, self, artists)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/artist.py", line 51, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/collections.py", line 410, in draw
+    renderer.draw_path_collection(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/backends/backend_agg.py", line 174, in draw_path_collection
+    return self._renderer.draw_path_collection(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/matplotlib/path.py", line 244, in should_simplify
+    @property
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2064, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'KeyboardInterrupt' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/kernelbase.py", line 353, in dispatch_shell
+    await result
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/kernelbase.py", line 648, in execute_request
+    reply_content = await reply_content
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/ipkernel.py", line 353, in do_execute
+    res = shell.run_cell(code, store_history=store_history, silent=silent)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/ipykernel/zmqshell.py", line 533, in run_cell
+    return super(ZMQInteractiveShell, self).run_cell(*args, **kwargs)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2904, in run_cell
+    self.events.trigger('post_execute')
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/events.py", line 92, in trigger
+    self.shell.showtraceback()
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 2066, in showtraceback
+    stb = self.InteractiveTB.structured_traceback(etype,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1367, in structured_traceback
+    return FormattedTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1267, in structured_traceback
+    return VerboseTB.structured_traceback(
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1124, in structured_traceback
+    formatted_exception = self.format_exception_as_a_whole(etype, evalue, etb, number_of_lines_of_context,
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 1082, in format_exception_as_a_whole
+    last_unique, recursion_repeat = find_recursion(orig_etype, evalue, records)
+  File "/home/sw1013/anaconda3/envs/downscale/lib/python3.9/site-packages/IPython/core/ultratb.py", line 382, in find_recursion
+    return len(records), 0
+TypeError: object of type 'NoneType' has no len()
+[I 2021-11-30 07:34:50.127 ServerApp] Kernel interrupted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 07:34:57.496 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:34:57.497 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:36:58.479 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:36:58.480 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:43:00.938 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:43:00.939 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:49:02.689 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:49:02.689 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:57:07.114 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:57:07.114 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 07:59:09.385 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 07:59:09.386 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 08:07:10.531 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 08:07:10.532 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 15:09:04.675 ServerApp] Kernel restarted: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-11-30 15:09:07.918 ServerApp] Starting buffering for 818bb93c-3e76-4516-a376-4d33c57f72d6:65a89055-9ca6-430d-98f8-4ef8270ec2f3
+[I 2021-11-30 15:09:08.257 ServerApp] Restoring connection for 818bb93c-3e76-4516-a376-4d33c57f72d6:65a89055-9ca6-430d-98f8-4ef8270ec2f3
+[I 2021-11-30 15:09:24.608 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 15:09:24.609 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 15:11:25.583 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 15:11:25.584 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 15:19:26.251 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 15:19:26.251 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 15:27:27.465 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 15:27:27.465 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 18:38:13.467 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 18:38:13.467 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 18:46:16.392 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 18:46:16.393 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 18:48:17.437 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 18:48:17.438 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-11-30 18:56:18.679 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-11-30 18:56:18.679 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:12:02.840 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:12:02.841 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:14:05.406 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:14:05.407 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:16:07.623 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:16:07.623 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:18:08.940 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:18:08.941 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:22:10.565 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:22:10.565 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:30:13.398 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:30:13.398 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:32:16.069 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:32:16.070 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:44:21.692 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:44:21.693 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:46:23.956 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:46:23.956 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:48:32.818 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:48:32.818 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 03:52:42.991 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 03:52:42.991 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 04:16:46.743 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 04:16:46.744 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 04:24:49.190 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 04:24:49.191 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 04:26:50.902 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 04:26:50.903 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 04:32:53.747 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 04:32:53.748 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 04:36:55.779 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 04:36:55.779 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 04:44:59.842 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 04:44:59.842 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 18:14:46.360 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 18:14:46.361 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 18:15:26.942 ServerApp] Saving file at /20211118_wind_regional.ipynb
+[W 2021-12-01 18:15:26.943 ServerApp] Notebook 20211118_wind_regional.ipynb is not trusted
+[I 2021-12-01 18:15:27.897 ServerApp] Starting buffering for de105cba-e664-402c-a741-3ba11af79678:b6e33ad1-1b33-44bd-a247-daf74146d48d
+[I 2021-12-01 18:15:27.898 ServerApp] Starting buffering for 818bb93c-3e76-4516-a376-4d33c57f72d6:65a89055-9ca6-430d-98f8-4ef8270ec2f3
+[C 2021-12-01 18:15:52.661 ServerApp] received signal 15, stopping
+[I 2021-12-01 18:15:52.741 ServerApp] Shutting down 2 extensions
+[I 2021-12-01 18:15:52.742 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[I 2021-12-01 18:15:52.743 ServerApp] Shutting down 4 kernels
+[I 2021-12-01 18:15:52.744 ServerApp] Kernel shutdown: 32509401-79b4-47ba-9fd4-cfc09cb26ebd
+[I 2021-12-01 18:15:52.745 ServerApp] Kernel shutdown: de105cba-e664-402c-a741-3ba11af79678
+[I 2021-12-01 18:15:52.749 ServerApp] Kernel shutdown: 71173991-e25d-4d69-a9be-8ad8f25eaaa2
+[I 2021-12-01 18:15:52.750 ServerApp] Kernel shutdown: 818bb93c-3e76-4516-a376-4d33c57f72d6
+[I 2021-12-01 18:15:55.471 ServerApp] Shutting down 0 terminals
